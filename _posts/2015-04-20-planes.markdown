@@ -38,6 +38,7 @@ BingieTV dose not HOST any content, It is only a modular search tool for content
 Here is a step-by-step guide on how you can install the BingieTV app.
 Just be sure to follow the right steps for your device, if you encounter any problems feel free to contact us for help.
 
+## IMPORTANT STEP!
 > - Since we are going to install a 3rd party application, requires activating the option of ‘Unknown Sources’ before proceeding with the installation.
 > - For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option of ‘Unknown Sources.’ Please turn it on.
 
