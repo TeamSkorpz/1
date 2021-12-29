@@ -7,8 +7,7 @@ image: "img/a.jpg"
 date:   2021-12-28 10:10:12
 ---
 
-## What is BingieTV?
-
+### What is BingieTV?
 BingieTV is a modular search tool for content. It crawls Movie/Tv Shows hosting websites and it can find and return the videos hosted on those sites, all using the Modules built by the amazing members of our community.
 
 ### Information:
@@ -42,20 +41,12 @@ Here is a step-by-step guide on how you can install the BingieTV app.
 Just be sure to follow the right steps for your device, if you encounter any Problems just check out our [**F&Q Page**](https://teamskorpz.github.io/FAQ.html) for help.
 
 ### Android Steps:
-> - Enable Unknown Sources
->> By default Android does not allow the installation of APK files on Android devices due to security reasons, but as mentioned before BingieTV is 100% safe and legitimate app.
 > - Go to Android settings, then click on Security, and then enable Unknown Sources.
-> - Now press [**Here**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie-TV/BingieTV.apk) to download the latest version!
+> - Now press [**Here**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie-TV/BingieTV.apk) to download the latest version of BingieTV!
 > - It will now download the latest version of BingieTV!
 > - Go to the Downloads folder in your File Manager on your Android device.
 > - Select the file 'BingieTV.apk' to open it and click on Install, now wait for a few seconds.
 > - The app is now installed, you can now launch it from the homescreen.
-
-### Important Step!
-> You need to install a video player for BingieTV to work!
-
-> We Reccomend using [**Titan Video Player**](https://teamskorpz.github.io/2021/11/08/Titan-Player.html) for the best streaming experience!
-
 
 ### Amazon Steps:
 > - Ask alexa to Install the (Downloader) app or press [**Here**](https://amzn.to/3oIIJhM) to open the Amazon website.
