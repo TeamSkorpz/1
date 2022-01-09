@@ -43,14 +43,14 @@ Since we are going to install a 3rd party application, requires activating the o
 ### Install BingieTV APK on Android TV Box & Android Smartphones [STEPS]
 > - Now, please download the BingieTV.apk file on your Android device from [**>> Here <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk).
 > - Follow the on-screen instructions and within a few minutes, you will have the icon of BingieTV on the home screen of your Android device.
-> - The app is now installed, you can now launch it from the homescreen to enjoy your favorite movies and TV shows.
+> - The app is now installed, you can now launch it from the homescreen to enjoy your favourite movies and TV shows.
 
 ### Install BingieTV on Amazon Firestick & Fire TV [STEPS]
 > - Ask alexa to Install the (Downloader) app or click [**>> Here <<**](https://amzn.to/3oIIJhM) to open the Amazon website.
-> - Once installed, Open the (Downloader) app and enter the code `52937` then press enter!
+> - Once installed, Open the (Downloader) app and enter the code >> `52937` << then press enter!
 > - It will now download the latest version of BingieTV, then you want to install it.
 > - So when it open's the file, press install and then press done.
-> - The app is now installed, you can now launch it from the homescreen to enjoy your favorite movies and TV shows.
+> - The app is now installed, you can now launch it from the homescreen to enjoy your favuorite movies and TV shows.
 
 ### Install BingieTV on PC(Windows & Mac) [STEPS]
 There is currently no official BingieTV application available for Windows/MAC PC/Laptop. However, we can install the same on the PC with the aid and assistance of an Android Emulator.
