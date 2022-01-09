@@ -23,9 +23,9 @@
 <br>- Added chrome cast support.</br>
 <br>- Fixed Luka Plex providers.</br>
 <br>- Fixed bugs/crashes.</br>",  
-"update_build":"116",  
-"update_version":"3.0.3",  
-"update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie-TV/BingieTV.apk", 
+"update_build":"117",  
+"update_version":"3.0.4",  
+"update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk", 
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl", 
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
