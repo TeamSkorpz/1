@@ -41,7 +41,7 @@ Since we are going to install a 3rd party application, requires activating the o
 > - For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 
 ### Install BingieTV APK on Android TV Box & Android Smartphones [STEPS]
-> - Now, please download the BingieTV.apk file on your Android device from [**>> Here <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk).
+> - Download the BingieTV.apk file on your Android device from [**>> Here <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk).
 > - Follow the on-screen instructions and within a few minutes, you will have the icon of BingieTV on the home screen of your Android device.
 > - The app is now installed, you can now launch it from the homescreen to enjoy your favourite movies and TV shows.
 
