@@ -60,7 +60,7 @@
 "enable_download_adm":true,
 "title_player":"Titan Video Player",
 "description_player":"You need to install titan Player to use BingieTV!",
-"link_download_player":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Titan-Player/Titan_Player.apk",
+"link_download_player":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Titan/Titan_Player.apk",
 "package_name_player":"com.titanx.videoplayerz",
 "enable_amz":false,
 "adoech_enable":false,
