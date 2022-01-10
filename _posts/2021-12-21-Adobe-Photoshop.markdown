@@ -16,9 +16,9 @@ Use curves, brushes, layers, as well as color correction and effects, just downl
 
 Screenshots
 
-<div style="text-align: center"><img/post/photoshop/Photoshop-CC.jpg" width="250" height="200" /></div>
-<div style="text-align: center"><img/post/photoshop/Photoshop-CC-Layout.jpg" width="250" height="200" /></div>
-<div style="text-align: center"><img/post/photoshop/Photoshop-CC-Layout-2.jpg" width="250" height="200" /></div>
+<div style="text-align: center"><img src="img/post/photoshop/Photoshop-CC.jpg" width="250" height="200" /></div>
+<div style="text-align: center"><img src="img/post/photoshop/Photoshop-CC-Layout.jpg" width="250" height="200" /></div>
+<div style="text-align: center"><img src="img/post/photoshop/Photoshop-CC-Layout-2.jpg" width="250" height="200" /></div>
 
 ### Photoshop RePack Key Features:
 - It’s a convenient format for saving the source works;
