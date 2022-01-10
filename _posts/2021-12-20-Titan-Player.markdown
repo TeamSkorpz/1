@@ -14,24 +14,24 @@ It comes with advanced hardware acceleration and subtitle support. Enjoy the eas
 And a great player which will help you enjoy music, movies, and TV shows like never before with many features:
 
 ### Features:
-– All formats are supported, including MKV, MP4, AVI, MOV, Ogg, FLAC, TS, M2TS, Wv and AAC, ….
-– It has a media library for audio and video files, and allows to browse folders directly, has support for multi-track audio and subtitles.
-– Play most local video and audio files, as well as network streams.
-– Support auto-rotation, aspect-ratio adjustments and gestures to control volume, brightness and seeking by gesture on the screen.
-– Titan Video Player is a totally free stunning app for all Android devices. You can watch all the popular any HD and 4K video on your phone or tablet .
-– Enjoying and watching TV shows, movies, your favorite shows and all other video from your SD card or phone storage, it can identify all video files on your device and SD card automatically.
-– Multiple options for auto-rotate and screen fit, it allows you to resize your watching video based on your selection.
-– Support download subtitles and more.
+- All formats are supported, including MKV, MP4, AVI, MOV, Ogg, FLAC, TS, M2TS, Wv and AAC, ….
+- It has a media library for audio and video files, and allows to browse folders directly, has support for multi-track audio and subtitles.
+- Play most local video and audio files, as well as network streams.
+- Support auto-rotation, aspect-ratio adjustments and gestures to control volume, brightness and seeking by gesture on the screen.
+- Titan Video Player is a totally free stunning app for all Android devices. You can watch all the popular any HD and 4K video on your phone or tablet .
+- Enjoying and watching TV shows, movies, your favorite shows and all other video from your SD card or phone storage, it can identify all video files on your device and SD card automatically.
+- Multiple options for auto-rotate and screen fit, it allows you to resize your watching video based on your selection.
+- Support download subtitles and more.
 
 ### Mods:
-Tested With Clean Install With Various Movie Apps On Gen2FS, Gen3FS, SmartFireTV, 2 Boxes, 6,7,8,9 Phones & 2 Tablets
 
-Full 17.3 MB
-Arm7 15.0 MB
-Location removed
-Ads patched/disabled
-Ad permissions disabled
-Receive cloud data removed
+Tested With Clean Install With Various Movie Apps On Gen2FS, Gen3FS, SmartFireTV, 2 Boxes, 6,7,8,9 Phones & 2 Tablets
+- Full 17.3 MB
+- Arm7 15.0 MB
+- Location removed
+- Ads patched/disabled
+- Ad permissions disabled
+- Receive cloud data removed
 
 ## How to Install:
 Here is a step-by-step guide on how you can install the Titan Player app.
@@ -53,7 +53,7 @@ Since we are going to install a 3rd party application, requires activating the o
 > - So when it open's the file, press install and then press done.
 > - The app is now installed, you can now launch it from the homescreen.
 
-### Install Titan Player on PC(Windows & Mac) [STEPS]
+### Install Titan Player on PC(Windows) [STEPS]
 There is currently no official Titan Player application available for Windows/MAC PC/Laptop. However, we can install the same on the PC with the aid and assistance of an Android Emulator.
 You can either go with BlueStacks or Nox App Player for the purpose.
 
