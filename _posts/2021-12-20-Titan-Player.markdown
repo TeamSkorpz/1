@@ -3,7 +3,7 @@ title:  "Titan Player (Ad-free) (Mod)"
 subtitle: "Entertainment, Streaming"
 author: "Skorpz"
 avatar: "img/authors/Skorpz.png"
-image: "img/titan.jpg"
+image: "img/b.jpg"
 date:   2021-12-28 10:10:12
 ---
 
@@ -13,9 +13,6 @@ Titan Player is a video media player for android from Uncontroller studio with a
 
 It comes with advanced hardware acceleration and subtitle support. Enjoy the easy and convenient free player on mobile with Titan Video Player.
 And a great player which will help you enjoy music, movies, and TV shows like never before with many features:
-
-## Disclamer:
-> - Titan Player DOES NOT HOST ANY COPYRIGHTED CONTENT! 
 
 ### Features:
 – All formats are supported, including MKV, MP4, AVI, MOV, Ogg, FLAC, TS, M2TS, Wv and AAC, ….
