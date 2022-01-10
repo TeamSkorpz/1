@@ -14,8 +14,9 @@ Adobe Photoshop CC 2022 is the latest version of the popular computer graphics e
 It is this product that allows you to create incredible masterpieces. Make your dreams come true, make a beautiful interior design, edit the image on a professional level, and this is not the limit of what this tool allows. A variety of effects and possibilities will allow you to process a photo in just a couple of dozen clicks. Clear interface will allow a beginner to understand the potential of the software, which will speed up the skills in processing pictures.
 Use curves, brushes, layers, as well as color correction and effects, just download Adobe Photoshop CC to your computer, which you can do on our website. Experienced users who have long known about the ability to download their own plug-ins directly into the program, it is very simple and will not take more than 10 seconds. Various add-ons, such as Camera Raw, will help to improve image quality, as well as to expand a considerable set of internal components of the product.
 
-<img src="img/post/photoshop/Photoshop-CC.jpg" width="700" height="400">
-<img src="img/post/photoshop/Photoshop-CC-Layout.jpg" width="700" height="400">
+Screenshots
+<img src="img/post/photoshop/Photoshop-CC.jpg" width="650" height="400">
+<img src="img/post/photoshop/Photoshop-CC-Layout.jpg" width="650" height="400">
 
 ### Photoshop RePack Key Features:
 - It’s a convenient format for saving the source works;
