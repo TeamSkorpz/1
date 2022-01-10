@@ -7,7 +7,6 @@ image: "img/b.jpg"
 date:   2021-12-28 10:10:12
 ---
 
-
 ## What is Titan Player?
 
 Titan Player is a video media player for android from Uncontroller studio with a lot of cool features in Android app Entertainment series.
