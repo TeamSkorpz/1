@@ -9,8 +9,8 @@ date:   2021-12-28 10:10:12
 
 #### Table of Contents
 
-- [Information](#Information)
-- [Features/Mods](#Features/Mods)
+- [Information](##Information)
+- [Features/Mods](###Features/Mods)
 - [Information](#Information)
 
 <h2 id="Information"> What is BingieTV?</h2>
