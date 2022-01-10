@@ -20,6 +20,9 @@ Thirdly, there is the function of importing photos from any folder, and after pr
 Many inexperienced PC users engage in online image editing. But this requires Photoshop profile activation. As for the Photoshop program, you need to install it once on your computer and use it at any time, regardless of your Internet connection.
 Due to the set of tools, which are in this photo editor, there is a great opportunity to achieve great successes in the difficult work of webmaster. It is important only to learn how to apply them correctly.
 
+<img src="img/post/photoshop/Photoshop-CC.jpg" width="200" height="100">
+<img src="img/post/photoshop/Photoshop-CC-Layout.jpg" width="200" height="100">
+
 ### Photoshop RePack Key Features:
 - It’s a convenient format for saving the source works;
 - Close integration with other editors from Adobe;
