@@ -18,8 +18,7 @@ BingieTV allow you to watch Movies and Tv Shows online for free, and it work on 
 It is simply a modular search tool for content. which mean it crawls Movie/Tv Shows hosting websites and it can find and return the videos hosted on those sites, all using the Modules built by the amazing members of our community.
 
 Screenshots:
-<div style="text-align: right"><img src="img/post/bingie/Layout-1.png" width="300" height="200" /></div>
-<img src="img/post/bingie/Layout-1.png" width="350" height="200">
+<div style="text-align: center"><img src="img/post/bingie/Layout-1.png" width="250" height="200" /></div>
 
 ## Disclamer:
 > - BINGIETV DOES NOT HOST ANY COPYRIGHTED CONTENT! 
