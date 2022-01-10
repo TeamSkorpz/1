@@ -15,9 +15,10 @@ It is this product that allows you to create incredible masterpieces. Make your 
 Use curves, brushes, layers, as well as color correction and effects, just download Adobe Photoshop CC to your computer, which you can do on our website. Experienced users who have long known about the ability to download their own plug-ins directly into the program, it is very simple and will not take more than 10 seconds. Various add-ons, such as Camera Raw, will help to improve image quality, as well as to expand a considerable set of internal components of the product.
 
 Screenshots
-<img src="img/post/photoshop/Photoshop-CC.jpg" width="350" height="150">
-<img src="img/post/photoshop/Photoshop-CC-Layout.jpg" width="350" height="150">
-<img src="img/post/photoshop/Photoshop-CC-Layout-2.jpg" width="350" height="150">
+
+<div style="text-align: center"><img/post/photoshop/Photoshop-CC.jpg" width="250" height="200" /></div>
+<div style="text-align: center"><img/post/photoshop/Photoshop-CC-Layout.jpg" width="250" height="200" /></div>
+<div style="text-align: center"><img/post/photoshop/Photoshop-CC-Layout-2.jpg" width="250" height="200" /></div>
 
 ### Photoshop RePack Key Features:
 - It’s a convenient format for saving the source works;
