@@ -17,6 +17,7 @@ Use curves, brushes, layers, as well as color correction and effects, just downl
 Screenshots
 <img src="img/post/photoshop/Photoshop-CC.jpg" width="650" height="400">
 <img src="img/post/photoshop/Photoshop-CC-Layout.jpg" width="650" height="400">
+<img src="img/post/photoshop/Photoshop-CC-Layout-2.jpg" width="650" height="400">
 
 ### Photoshop RePack Key Features:
 - It’s a convenient format for saving the source works;
