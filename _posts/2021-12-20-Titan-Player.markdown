@@ -1,6 +1,6 @@
 ---
 title:  "Titan Player (Ad-free) (Mod)"
-subtitle: "Entertainment, Streaming"
+subtitle: "Android, Windows, Entertainment"
 author: "Skorpz"
 avatar: "img/authors/Skorpz.png"
 image: "img/b.jpg"
