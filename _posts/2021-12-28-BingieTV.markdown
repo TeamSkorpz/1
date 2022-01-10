@@ -7,14 +7,8 @@ image: "img/a.jpg"
 date:   2021-12-28 10:10:12
 ---
 
-#### Table of Contents
-
-- [Information](##Information)
-- [Features/Mods](###Features/Mods)
-- [Information](#Information)
-
 <h2 id="Information"> What is BingieTV?</h2>
-BingieTV is a Clone of the BeeTV app, but with Modded Features!
+BingieTV is a Clone of the BingieTV app, but with Modded Features!
 
 BingieTV allow you to watch Movies and Tv Shows online for free, and it work on most Android devices, Amazon Fire Devices and Windows PC/Laptops.
 It is simply a modular search tool for content. which mean it crawls Movie/Tv Shows hosting websites and it can find and return the videos hosted on those sites, all using the Modules built by the amazing members of our community.
@@ -22,8 +16,13 @@ It is simply a modular search tool for content. which mean it crawls Movie/Tv Sh
 Screenshots:
 <div style="text-align: center"><img src="img/post/bingie/Layout-1.png" width="250" height="200" /></div>
 
-## Disclamer:
-> - BINGIETV DOES NOT HOST ANY COPYRIGHTED CONTENT! 
+<h6 id="Disclamer"> Disclamer:</h6>
+> Does BingieTV host copyrighted videos?
+>> No. BingieTV is a media search tool. It does not host any copyrighted videos on its servers. 
+>> The maker of BingieTV does not condone the streaming of copyrighted content and intends that this tool be strictly used for searching open license or public domain movies and shows. 
+>> The maker of BingieTV takes no responsibility for how BingieTV is used, and BingieTV does not remotely track or store any information regarding the browsing/streaming activity of its users.
+
+BingieTV has no control over what media is put up or taken down. It merely scrapes 3rd-party websites that are publicly accessible via any regular web browser. It is the responsibility of the user to avoid any actions that might violate the laws governing his/her locality.
 
 <h3 id="Features/Mods"> Features/Mods:</h3>
 - Ads disabled / removed;
