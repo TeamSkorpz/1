@@ -10,6 +10,8 @@ date:   2021-12-28 10:10:12
 #### Table of Contents
 
 - [Information](#Information)
+- [Features/Mods](#Features/Mods)
+- [Information](#Information)
 
 <h2 id="Information"> What is BingieTV?</h2>
 BingieTV is a Clone of the BeeTV app, but with Modded Features!
@@ -23,7 +25,7 @@ Screenshots:
 ## Disclamer:
 > - BINGIETV DOES NOT HOST ANY COPYRIGHTED CONTENT! 
 
-### Features/Mods: {#Features/Mods}
+<h3 id="Features/Mods"> Features/Mods:</h3>
 - Ads disabled / removed;
 - Disabled / Removed unwanted Permissions + Receivers + Providers + Services;
 - Optimized and zipaligned graphics and cleaned resources for fast load;
