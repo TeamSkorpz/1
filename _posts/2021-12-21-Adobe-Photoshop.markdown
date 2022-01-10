@@ -59,7 +59,7 @@ Screenshots
 2. Processor: Intel® or AMD processor with 64-bit support; 2 GHz or faster processor with SSE 4.2 or later.
 
 ### Install Adobe Photoshop CC on PC(Windows) [STEPS]
-1. Download the zip file [**>> Adobe-Photoshop-CC-2022-v23.0.2.101.rar <<**]()
+1. Download the zip file >[**>> Adobe-Photoshop-CC-2022-v23.0.2.101.rar <<**]()
 2. Extract the files to your desktop using [**>> WinRar <<**]() or [**>> 7Zip <<**]()
 3. Run the Setup.exe file contained in the Adobe-Photoshop-CC-2022-v23.0.2.101 folder.
 4. Follow the on-screen instructions and within a few minutes, you will have installed Adobe Photoshop CC 2022.
