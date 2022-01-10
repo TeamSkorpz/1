@@ -3,7 +3,7 @@ title:  "Titan Player (Ad-free) (Mod)"
 subtitle: "Entertainment, Streaming"
 author: "Skorpz"
 avatar: "img/authors/Skorpz.png"
-image: "img/c.jpg"
+image: "img/b.jpg"
 date:   2021-12-28 10:10:12
 ---
 
