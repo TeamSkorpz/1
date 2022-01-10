@@ -52,7 +52,7 @@ Since we are going to install a 3rd party application, requires activating the o
 > - Once installed, Open the (Downloader) app and enter the code `>> 52937 <<` then press enter!
 > - It will now download the latest version of Titan Player, then you want to install it.
 > - So when it open's the file, press install and then press done.
-> - The app is now installed, you can now launch it from the homescreen to enjoy your favuorite movies and TV shows.
+> - The app is now installed, you can now launch it from the homescreen.
 
 ### Install Titan Player on PC(Windows & Mac) [STEPS]
 There is currently no official Titan Player application available for Windows/MAC PC/Laptop. However, we can install the same on the PC with the aid and assistance of an Android Emulator.
