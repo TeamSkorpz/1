@@ -19,8 +19,9 @@ date:   2021-12-28 10:10:12
 
 #### Disclamer:
 Dose BingieTV host copyrighted videos? 
-> No, It merely scrapes 3rd-party websites that are publicly accessible via any regular web browser. 
->> It is the responsibility of the user to avoid any actions that might violate the laws governing his/her locality..
+
+No, It merely scrapes 3rd-party websites that are publicly accessible via any regular web browser. 
+It is the responsibility of the user to avoid any actions that might violate the laws governing his/her locality..
 
 ### Features/Mods:
 - Ads disabled / removed;
