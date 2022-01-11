@@ -46,21 +46,19 @@ Just be sure to follow the right steps for your device, if you encounter any pro
 For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 </p>
 
-> ### Install BingieTV APK on Android TV Box & Android Smartphones [STEPS]
+### Install BingieTV APK on Android TV Box & Android Smartphones [STEPS]
 >
 > - Download the BingieTV Apk file on your device from [**>> Here <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk).
 > - Follow the on-screen instructions and within a few minutes, you will have the icon of BingieTV on the home screen of your Android device.
 > - The app is now installed, you can now launch it from the homescreen.
->
-> *Enjoy* your favourite Movies and TV shows.
+> - *Enjoy* your favourite Movies and TV shows.
 
-> ### Install BingieTV on Amazon Firestick & Fire TV [STEPS]
+### Install BingieTV on Amazon Firestick & Fire TV [STEPS]
 >
 > - Ask alexa to Install the (Downloader) app or click [**>> Here <<**](https://amzn.to/3oIIJhM) to open the Amazon website.
 > - Once installed, Open the (Downloader) app and enter the code `>> 52937 <<` then press enter!
 > - It will now download the latest version of BingieTV, then you want to install it.
 > - So when it open's the file, press install and then press done.
 > - The app is now installed, you can now launch it from the homescreen.
->
-> *Enjoy* your favourite Movies and TV shows.
+> - *Enjoy* your favourite Movies and TV shows.
 
