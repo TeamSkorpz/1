@@ -32,6 +32,8 @@ It is the responsibility of the user to avoid any actions that might violate the
 - Screen DPIs: 120dpi, 160dpi, 240dpi, 320dpi, 480dpi, 640dpi;
 - Original package signature changed.
 
+---
+
 #### How to Install:
 <p>Here is a step-by-step guide on how you can install the BingieTV app.
 <br>
@@ -50,12 +52,15 @@ For that, please navigate to Settings -> Security on your Android smartphone. Sc
 > - Follow the on-screen instructions and within a few minutes, you will have the icon of BingieTV on the home screen of your Android device.
 > - The app is now installed, you can now launch it from the homescreen.
 >
->  *Enjoy* your favourite Movies and TV shows.
+> *Enjoy* your favourite Movies and TV shows.
 
-### Install BingieTV on Amazon Firestick & Fire TV [STEPS]
+> ### Install BingieTV on Amazon Firestick & Fire TV [STEPS]
+>
 > - Ask alexa to Install the (Downloader) app or click [**>> Here <<**](https://amzn.to/3oIIJhM) to open the Amazon website.
 > - Once installed, Open the (Downloader) app and enter the code `>> 52937 <<` then press enter!
 > - It will now download the latest version of BingieTV, then you want to install it.
 > - So when it open's the file, press install and then press done.
-> - The app is now installed, you can now launch it from the homescreen to enjoy your favuorite movies and TV shows.
+> - The app is now installed, you can now launch it from the homescreen.
+>
+> *Enjoy* your favourite Movies and TV shows.
 
