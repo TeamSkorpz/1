@@ -9,12 +9,9 @@ date:   2021-12-28 10:10:12
 
 <div style="text-align: center"><img src="img/post/bingie/splash.png" width="200" height="200" /></div>
 ### What is BingieTV?
-
-
-
-<p>BingieTV is a Clone of the BeeTV app, but with Modded Features! BingieTV allow you to watch Movies and Tv Shows online for free, and it work on most Android devices, Amazon Fire Devices and Windows PC/Laptops. It is simply a modular search tool for content. which mean it crawls Movie/Tv Shows hosting websites and it can find and return the videos hosted on those sites, all using the Modules built by the amazing members of our community.</p>
-
-### Screenshots:
+<p>BingieTV is a Clone of the BeeTV app, but with Modded Features!</p>
+### Information:
+ BingieTV allow you to watch Movies and Tv Shows online for free, and it work on most Android devices, Amazon Fire Devices and Windows PC/Laptops. It is simply a modular search tool for content. which mean it crawls Movie/Tv Shows hosting websites and it can find and return the videos hosted on those sites, all using the Modules built by the amazing members of our community.
 <div style="text-align: center"><img src="img/post/bingie/Layout-1.png" width="300" height="200" /></div>
 
 #### Disclamer:
@@ -47,10 +44,13 @@ Just be sure to follow the right steps for your device, if you encounter any pro
 - For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 </p>
 
-### Install BingieTV APK on Android TV Box & Android Smartphones [STEPS]
-> - Download the BingieTV.apk file on your Android device from [**>> Here <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk).
+> ### Install BingieTV APK on Android TV Box & Android Smartphones [STEPS]
+>
+> - Download the BingieTV Apk file on your device from [**>> Here <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk).
 > - Follow the on-screen instructions and within a few minutes, you will have the icon of BingieTV on the home screen of your Android device.
-> - The app is now installed, you can now launch it from the homescreen to enjoy your favourite movies and TV shows.
+> - The app is now installed, you can now launch it from the homescreen.
+>
+>  *Enjoy* your favourite Movies and TV shows.
 
 ### Install BingieTV on Amazon Firestick & Fire TV [STEPS]
 > - Ask alexa to Install the (Downloader) app or click [**>> Here <<**](https://amzn.to/3oIIJhM) to open the Amazon website.
