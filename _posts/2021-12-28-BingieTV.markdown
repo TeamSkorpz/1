@@ -6,6 +6,7 @@ avatar: "img/authors/Skorpz.png"
 image: "img/a.jpg"
 date:   2021-12-28 10:10:12
 ---
+
 <div style="text-align: center"><img src="img/post/bingie/ic_launcher.png" width="200" height="200" /></div>
 ## What is BingieTV?
 <h4 id="Information"> BingieTV is a Clone of the BeeTV app, but with Modded Features! BingieTV allow you to watch Movies and Tv Shows online for free, and it work on most Android devices, Amazon Fire Devices and Windows PC/Laptops. It is simply a modular search tool for content. which mean it crawls Movie/Tv Shows hosting websites and it can find and return the videos hosted on those sites, all using the Modules built by the amazing members of our community.</h4>
