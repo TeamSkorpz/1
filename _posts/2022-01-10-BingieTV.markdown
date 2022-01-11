@@ -61,4 +61,5 @@ For that, please navigate to Settings -> Security on your Android smartphone. Sc
 - So when it open's the file, press install and then press done.
 - The app is now installed, you can now launch it from the homescreen.
 - You now can *Enjoy* your favourite Movies and TV shows for free.
+
 ---
