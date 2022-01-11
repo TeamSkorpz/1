@@ -14,9 +14,9 @@ date:   2021-12-28 10:10:12
 ### Screenshots:
 <div style="text-align: center"><img src="img/post/bingie/Layout-1.png" width="300" height="200" /></div>
 
-> ##### Disclamer:
+##### Disclamer:
 Dose BingieTV host copyrighted videos? 
-No, It merely scrapes 3rd-party websites that are publicly accessible via any regular web browser. It is the responsibility of the user to avoid any actions that might violate the laws governing his/her locality..
+> No, It merely scrapes 3rd-party websites that are publicly accessible via any regular web browser. It is the responsibility of the user to avoid any actions that might violate the laws governing his/her locality..
 
 ### Features/Mods:
 - Ads disabled / removed;
@@ -36,10 +36,10 @@ No, It merely scrapes 3rd-party websites that are publicly accessible via any re
 Just be sure to follow the right steps for your device, if you encounter any problems feel free to contact us for help.
 </p>
 
-###### Enable Unknown Sources!
-> <p>Since we are going to install a 3rd party application, this requires you activating the option ‘Unknown Sources’ before proceeding with the installation.
+##### Enable Unknown Sources!
+<p>Since we are going to install a 3rd party application, this requires you activating the option ‘Unknown Sources’ before proceeding with the installation.
 <br>
-> For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
+For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 </p>
 
 ##### Install BingieTV APK on Android TV Box & Android Smartphones [STEPS]
