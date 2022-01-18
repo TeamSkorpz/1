@@ -9,22 +9,22 @@
 "content_not_support_audio":"This movie has audio which is not supported by BingieTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
-"update_isforce":true,  
-"update_isapk":true,  
-"update_title":"Hey, Theres a new Update available!",  
-"update_content":"You can only update if you are using TeamSkorpzs modded version.
+"update_isforce":false,  
+"update_isapk":false,  
+"update_title":"Update new version",  
+"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 3.0.5</br>
+<br>- Version: 3.0.8</br>
 <br>- Size: 18.7MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add Dood, Hdmo link.</br>
 <br>- Fix Luka Plex, Std(need verify capcha) providers.</br>
-<br>- Fix bugs.</br>", 
+<br>- Fix bugs.</br>",  
 "update_build":"118",  
 "update_version":"3.0.5",  
-"update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk", 
+"update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
@@ -40,13 +40,13 @@
 "text_link":"http://real-debrid.com/?id=406806",
 "text_content":"Streaming in higher quality",
 "text_title":"Real-debrid",
-"text_type":"hide",
+"text_type":"link",
 "text_id":"71446",
 "custom_fullads_photo":"https://i.imgur.com/FpMvTE0.png",
 "custom_fullads_link":"https://www.jdoqocy.com/click-100278415-14482593",
-"custom_fullads_gif":false,
-"custom_fullads_enable":false,
-"enable_force_internal":false,
+"custom_fullads_gif":true,
+"custom_fullads_enable":true,
+"enable_force_internal":true,
 "menu_text_tv":"",
 "menu_link_tv":"",
 "menu_link_phone":"",
@@ -57,11 +57,11 @@
 "downloader_name":"One Downloader",
 "enable_install_player":true,
 "enable_download_adm":true,
-"title_player":"Titan Video Player",
-"description_player":"You need to install titan Player to use BingieTV!",
+"title_player":"Attention!",
+"description_player":"BingieTV requaires you to install Titan Video Player",
 "link_download_player":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Titan/Titan_Player.apk",
 "package_name_player":"com.titanx.videoplayerz",
-"enable_amz":true,
+"enable_amz":false,
 "adoech_enable":false,
 "oneplayer_version_build":"26",
 "openload_key":"DtsBlkVFQx",
@@ -80,7 +80,7 @@
 "banner_photo":"",
 "banner_link":"",
 "banner_text":"",
-"enable_admob_inter":true,
+"enable_admob_inter":false,
 "enable_admob_banner":false,
 "unt_game_id":"4554483",
 "amz_ads_key":"c03f38429b0045deba32f73996233ecf",
