@@ -12,14 +12,14 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Hey, Theres a new update",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
+"update_content":"You can only update if you are using TeamSkorpz modded version.
 <br></br>
 <b>Release Info</b>
 <br>- Version: 3.0.5</br>
 <br>- Size: 18.7MB</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add Dood, Hdmo link.</br>
+<br>- Add Dood link.</br>
 <br>- Fix Luka Plex, Std(need verify capcha) providers.</br>
 <br>- Fix bugs.</br>",  
 "update_build":"118",  
