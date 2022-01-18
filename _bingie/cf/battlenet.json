@@ -4,7 +4,7 @@
 "survey_content": "",  
 "survey_type": "",  
 "survey_link": "",  
-"left_menu_image":"https://i.imgur.com/8F4CW6b.gif",
+"left_menu_image":"https://i.imgur.com/NVKmrT3.png",
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by BingieTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
@@ -14,20 +14,16 @@
 "update_title":"Hey, Theres a new Update available!",  
 "update_content":"You can only update if you are using TeamSkorpzs modded version.
 <br></br>
-<b>Release Info</b>
-<br>- Version: 3.0.3</br>
-<br>- Size: 19.0MB</br>
-<br></br>
 <br><b>Change logs</b></br>
-<br>- Added Watchss, Trailers.to, Soap2day.</br>
-<br>- Added chrome cast support.</br>
-<br>- Fixed Luka Plex providers.</br>
+<br>- Add Dood, Hdmo link.</br>
+<br>- Fix Luka Plex, Std(need verify capcha) providers.</br>
+<br>- Fix bugs.</br>",
 <br>- Fixed bugs/crashes.</br>",  
-"update_build":"116",  
-"update_version":"3.0.3",  
+"update_build":"118",  
+"update_version":"3.0.5",  
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk", 
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
-"pkg_uninstall":"com.medianet.gl", 
+"pkg_uninstall":"com.medianet.gl",  
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
 "pkg_uninstall_247":"",
 "pkg_uninstall_257":"com.battlenet.showguide",
@@ -53,7 +49,7 @@
 "menu_link_phone":"",
 "menu_text_phone":"",
 "enable_cms":"0",
-"show_ads":"0",
+"show_ads":"1",
 "downloader_package_name":"com.one.downloader",
 "downloader_name":"One Downloader",
 "enable_install_player":true,
@@ -62,9 +58,9 @@
 "description_player":"You need to install titan Player to use BingieTV!",
 "link_download_player":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Titan/Titan_Player.apk",
 "package_name_player":"com.titanx.videoplayerz",
-"enable_amz":false,
+"enable_amz":true,
 "adoech_enable":false,
-"oneplayer_version_build":"25",
+"oneplayer_version_build":"26",
 "openload_key":"DtsBlkVFQx",
 "player_packagename_backup":"com.player.matett",
 "player_link_backup":"",
@@ -81,16 +77,18 @@
 "banner_photo":"",
 "banner_link":"",
 "banner_text":"",
-"enable_admob_inter":false,
+"enable_admob_inter":true,
 "enable_admob_banner":false,
-"unt_game_id":"3936967",
+"unt_game_id":"4554483",
 "amz_ads_key":"c03f38429b0045deba32f73996233ecf",
 "amz_ads_key_261":"1fe9daa7fc4a40aabf9eda2748000032",
 "priorirty_custom_ads":false,
 "mixdrop_config":"Cgp2YXIgaW50ZXJ2YWw7CnZhciBjb3VudCA9IDA7CgoKZ2V0Q29kZU1peERyb3AgPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGEsIDMwMCk7Cn0KCmdldERhdGEgPSAoKSA9PiB7CiAgICB2YXIgY29kZSA9IE1EQ29yZTsKICAgIGlmKGNvZGUgIT09IHVuZGVmaW5lZCAmJiBjb2RlLnd1cmwgIT09IG51bGwgJiYgY29kZS53dXJsLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlLnd1cmwpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KCk7CiAgICAgICAgfQogICAgfQoKfQ==",
 "mixdrop_domain":"mixdrop.co",
-"site_cookie":"https://series9.me,https://www.putlockers.cr",
-"site_cookie_test":"https://series9.me,https://www.putlockers.cr",
+"site_cookie":"https://series9.me,https://www.putlockers.ro",
+"site_cookie_test":"https://series9.me,https://www.putlockers.ro",
+"look_cookie":"PHPSESSID=3oru7l9ebgq0gqjkshu0fk3ap1; _csrf=4f10f5a4e73f87352dcde84a9513141268fd9c36d4065667e0262c1950328fe4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Xkm3Csn0Lm80siBoVveyaet4Eho0ecnq%22%3B%7D; _ga=GA1.2.1070538177.1641347692; _ym_uid=1641347692836971379; _ym_d=1641347692; _gid=GA1.2.871389095.1641797129; have_visited_internal_page=1; prem_promo_closed=1; _gat=1; _ym_visorc=b; _ym_isad=2",
+"look_domain_api":"https://lookmovie138.xyz",
 "aparat_cfg":"dmFyIGludGVydmFsOwp2YXIgY291bnQgPSAwOwoKZ2V0QXBhcmF0ID0gKCkgPT4gewogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbChnZXREYXRhQXBhcmF0LCAzMDApOwp9CgpnZXREYXRhQXBhcmF0ID0gKCkgPT4gewogICAgdmFyIGNvZGUgPSBwbGF5ZXIuZ2V0Q29uZmlnKCkucGxheWxpc3RbMF0uZmlsZTsKICAgIGlmKGNvZGUgIT09IHVuZGVmaW5lZCAmJiBjb2RlICE9PSBudWxsICYmIGNvZGUubGVuZ3RoID4gMCl7CiAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgQW5kcm9pZC5yZXR1cm5MaW5rKGNvZGUpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KDEpOwogICAgICAgIH0KICAgIH0KfQo=",
 "captcha_cookie_test":"https://lookmovie.io/, https://www.putlockers.gg/",
 "upstream_cfg":"dmFyIGludGVydmFsOwp2YXIgY291bnQgPSAwOwoKZ2V0VXBzdHJlYW0gPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGFVcHN0cmVhbSwgMzAwKTsKfQoKZ2V0RGF0YVVwc3RyZWFtID0gKCkgPT4gewogICAgdmFyIGNvZGUgPSBwbGF5ZXIuZ2V0UGxheWxpc3QoKVswXS5maWxlOwogICAgaWYoY29kZSAhPT0gdW5kZWZpbmVkICYmIGNvZGUgIT09IG51bGwgJiYgY29kZS5sZW5ndGggPiAwKXsKICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICBBbmRyb2lkLnJldHVybkxpbmsoY29kZSk7CiAgICB9ZWxzZXsKICAgICAgICBjb3VudCA9IGNvdW50ICsgMTsKICAgICAgICBpZihjb3VudCA9PSA2MCl7CiAgICAgICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgICAgICBBbmRyb2lkLnRpbWVvdXQoMSk7CiAgICAgICAgfQogICAgfQp9Cg==",
