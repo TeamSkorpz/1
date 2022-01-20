@@ -4,7 +4,7 @@
 "survey_content": "",  
 "survey_type": "",  
 "survey_link": "",  
-"left_menu_image":"https://i.imgur.com/NVKmrT3.png",
+"left_menu_image":"https://i.imgur.com/1zxmtb7.jpeg",
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by BingieTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
@@ -19,16 +19,12 @@
 <br>- Version: 3.0.6</br>
 <br>- Size: 18.7MB</br>
 <br></br>
-<br><b>Important Notice!</b></br>
-<br>This update will break Auto-updates via the application,</br>
-<br>whitch means any future updates will have to be installed via our website..</br>
-<br></br>
 <br><b>Change logs</b></br>
 <br>- Add Dood, Hdmo link.</br>
 <br>- Fix Luka Plex, Std(need verify capcha) providers.</br>
 <br>- Fix bugs.</br>",  
 "update_build":"119",  
-"update_version":"3.0.6", 
+"update_version":"3.0.6",  
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
