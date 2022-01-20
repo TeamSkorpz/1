@@ -27,8 +27,8 @@
 <br>- Add Dood, Hdmo link.</br>
 <br>- Fix Luka Plex, Std(need verify capcha) providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"116",  
-"update_version":"3.0.3", 
+"update_build":"119",  
+"update_version":"3.0.6", 
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
