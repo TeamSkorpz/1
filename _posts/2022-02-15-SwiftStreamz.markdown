@@ -1,5 +1,5 @@
 ---
-title:  "Swift Streamz Apk (Ad-free)!"
+title:  "SwiftStreamz Apk (Ad-free)!"
 subtitle: "Android, Entertainment"
 author: "Skorpz"
 avatar: "img/authors/Skorpz.png"
