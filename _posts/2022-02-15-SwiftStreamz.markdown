@@ -3,11 +3,11 @@ title:  "Swift Streamz Apk (Ad-free)!"
 subtitle: "Android, Entertainment"
 author: "Skorpz"
 avatar: "img/authors/Skorpz.png"
-image: "img/a.jpg"
+image: "img/e.jpg"
 date:   2022-02-15 12:00:00
 ---
 
-<div style="text-align: center"><img src="img/post/bingie/splash.png" width="200" height="200" /></div>
+<div style="text-align: center"><img src="img/post/swift/swift_streamz.jpg" width="200" height="200" /></div>
 ### What is SwiftStreamz?
 <p>SwiftStreamz is a Clone of the TeeTV app, but with unlocked Features!</p>
 ### Information:
