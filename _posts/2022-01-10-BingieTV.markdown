@@ -1,6 +1,6 @@
 ---
 title:  "BingieTV (Ad-free) (App)!"
-subtitle: "Android, Windows, Entertainment"
+subtitle: "Android, Entertainment"
 author: "Skorpz"
 avatar: "img/authors/Skorpz.png"
 image: "img/a.jpg"
