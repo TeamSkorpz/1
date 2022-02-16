@@ -15,15 +15,18 @@
 "update_content":"You can only update if you are using TeamSkorpz modded version.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 3.0.7</br>
-<br>- Size: 18.7MB</br>
+<br>- Version: 3.0.9</br>
+<br>- File Size: 18.7MB</br>
+<br>- Downloader Code: 52937</br>", 
+<br></br>
+<br><b>Hopefully this auto updates works!</b></br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add Dood, Hdmo link.</br>
+<br>- Add Mcll Cdn, Molmv link.</br>
 <br>- Add Sf, Voe host.</br>
-<br>- Fix bugs.</br>",  
-"update_build":"120",  
-"update_version":"3.0.7",  
+<br>- Fix a few bugs.</br>", 
+"update_build":"122",  
+"update_version":"3.0.9",  
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
@@ -61,7 +64,7 @@
 "description_player":"BingieTV requaires you to install/update Titan Video Player",
 "link_download_player":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Titan/Titan_Player.apk",
 "package_name_player":"com.titanx.videoplayerz",
-"enable_amz":false,
+"enable_amz":true,
 "adoech_enable":false,
 "oneplayer_version_build":"27",
 "openload_key":"DtsBlkVFQx",
@@ -76,12 +79,12 @@
 "op_user_agent":"novaapp 1.0.0",
 "ogr_key":"OGY-2EE43D260DB3",
 "openload_domain":"https://openload.co",
-"is_banner_auto":true,
-"banner_photo":"https://i.imgur.com/hss564K.png",
-"banner_link":"https://teamskorpz.co.uk/#/2022/01/10/BingieTV",
-"banner_text":"Thanks for using BingieTV!",
+"is_banner_auto":false,
+"banner_photo":"",
+"banner_link":"",
+"banner_text":"",
 "enable_admob_inter":true,
-"enable_admob_banner":true,
+"enable_admob_banner":false,
 "unt_game_id":"4554483",
 "amz_ads_key":"c03f38429b0045deba32f73996233ecf",
 "amz_ads_key_261":"1fe9daa7fc4a40aabf9eda2748000032",
