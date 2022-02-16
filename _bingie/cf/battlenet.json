@@ -4,12 +4,13 @@
 "survey_content": "",  
 "survey_type": "",  
 "survey_link": "",  
-"left_menu_image":"https://i.imgur.com/1zxmtb7.jpeg", 
+"left_menu_image":"https://i.imgur.com/1zxmtb7.jpeg",   
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":false,  
+"update_isapk":true,  
 "update_title":"Hey, Theres a new update",  
 "update_content":"You can only update if you are using TeamSkorpz modded version.
 <br></br>
@@ -17,17 +18,13 @@
 <br>- Version: 3.0.9</br>
 <br>- Size: 18.7MB</br>
 <br></br>
-<br>- Downloader Code: 52937</br>"
-<br></br>
-<br><b>Hopefully auto updates works!</b></br>
-<br></br>
 <br><b>Change logs</b></br>
 <br>- Add Mcll Cdn, Molmv link.</br>
 <br>- Add Sf, Voe host.</br>
 <br>- Fix bugs.</br>",  
 "update_build":"122",  
 "update_version":"3.0.9",  
-"update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",  
+"update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",   
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
@@ -39,23 +36,23 @@
 "http_config":"https",
 "gg_analytics_key":"UA-130029478-6",  
 "tmdb_key":"35ab7a51001695fc52d8095a21e90b0d",
-"ads_priority":"custom",
-"text_link":"http://real-debrid.com/?id=5716751",
-"text_content":"Streaming in higher quality!",
-"text_title":"Real-debrid - HD Streams!",
-"text_type":"link",
+"ads_priority":"amazon",
+"text_link":"http://real-debrid.com/?id=406806",
+"text_content":"Streaming in higher quality",
+"text_title":"Real-debrid",
+"text_type":"hide",
 "text_id":"71446",
-"custom_fullads_photo":"https://i.imgur.com/hss564K.png",
-"custom_fullads_link":"https://teamskorpz.co.uk/#/2022/01/10/BingieTV",
+"custom_fullads_photo":"https://i.imgur.com/FpMvTE0.png",
+"custom_fullads_link":"https://www.jdoqocy.com/click-100278415-14482593",
 "custom_fullads_gif":false,
-"custom_fullads_enable":false,
-"enable_force_internal":true,
-"menu_text_tv":"Streaming in higher quality!",
-"menu_link_tv":"http://real-debrid.com/?id=5716751",
-"menu_link_phone":"http://real-debrid.com/?id=5716751",
-"menu_text_phone":"Streaming in higher quality!",
+"custom_fullads_enable":true,
+"enable_force_internal":false,
+"menu_text_tv":"",
+"menu_link_tv":"",
+"menu_link_phone":"",
+"menu_text_phone":"",
 "enable_cms":"0",
-"show_ads":"0",
+"show_ads":"1",
 "downloader_package_name":"com.one.downloader",
 "downloader_name":"One Downloader",
 "enable_install_player":true,
