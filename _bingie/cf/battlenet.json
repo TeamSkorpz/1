@@ -15,19 +15,15 @@
 "update_content":"You can only update if you are using TeamSkorpz modded version.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 3.0.9</br>
-<br>- Size: 19.6MB</br>
+<br>- Version: 3.1.0</br>
+<br>- Size: 19.1MB</br>
 <br></br>
-<b>Notice</b>
-<br>- Hopefully this fixs auto updates,</br>
-<br>- because its starting to annoy me xD</br>
-<br></br>
-<b>Change logs</b>
+<br><b>Change logs</b></br>
 <br>- Add Mcll Cdn, Molmv link.</br>
 <br>- Add Sf, Voe host.</br>
-<br>- Fix bugs.</br>",  
-"update_build":"122",  
-"update_version":"3.0.9",  
+<br>- Fix bugs.</br>", 
+"update_build":"123",  
+"update_version":"3.1.0", 
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",   
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
