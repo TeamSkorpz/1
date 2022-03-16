@@ -39,11 +39,13 @@ For that, please navigate to Settings -> Security on your Android smartphone. Sc
 
 #### Install on Amazon Firesticks & Fire TVs [STEPS]
 
-- Ask alexa to Install the (Downloader) app or click [**>> Here <<**](https://amzn.to/3oIIJhM) to open the Amazon website.
-- Once installed, Open the (Downloader) app and enter the code `>> 446735 <<` then press enter!
-- It will now download the latest version of SwiftStreamz, then you want to install it.
-- So when it open's the file, press install, then done.
+- Install the (DOWNLOADER) app or click [**>> Here <<**](https://amzn.to/3oIIJhM)
+- Open the "DOWNLOADER" app, and enter the code `>> 998675 <<`
+- It will now download the latest version of IPTV Extream.
+- So when it open's the file, press install, then press done.
 - The app is now installed, you can now launch it from the homescreen.
 - You now can *Enjoy* your favourite TV Channels for free!
+
+- P.S 
 
 ---
