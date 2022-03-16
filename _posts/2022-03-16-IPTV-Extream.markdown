@@ -23,11 +23,7 @@ date:   2022-03-16 12:00:00
 ## How to Guide:
 <p>Here is a step-by-step guide on how you can install our apps.
 <br>
-Just be sure to follow the right steps for your device, if you encounter any problems feel free to contact us for help.
-<br>
-Since we are going to be installing a 3rd party application, this requires you to activat the option ‘Unknown Sources’ before proceeding with the installation.
-<br>
-For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Then please turn it on.
+Just be sure to follow the right steps for your device, if you encounter any problems feel free to contact us for help. Since we are going to be installing a 3rd party application, this requires you to activat the option ‘Unknown Sources’ before proceeding with the installation. For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Then please turn it on.
 </p>
 
 #### Install on Android TV Boxs & Android Smartphones [STEPS]
