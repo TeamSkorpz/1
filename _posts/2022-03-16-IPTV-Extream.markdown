@@ -49,40 +49,7 @@ However, the program Can’t work automatically; alternatively, users Will Need 
 - Search for Similar Events on TV Guide
 - Sliding EPG time
 
-
 ---
-
-## How to Guide:
-<p>Here is a step-by-step guide on how you can install the BingieTV app.
-<br>
-Just be sure to follow the right steps for your device, if you encounter any problems feel free to contact us for help.
-<br>
-Since we are going to install a 3rd party application, this requires you activating the option **"Unknown Sources"** before proceeding with the installation.
-<br>
->For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for **>> Unknown Sources <<** Please turn it on.
-</p>
-
-#### Install on Android TV Boxs & Android Smartphones [STEPS]
-
-- Download the IPTV Extream Apk file.
-- Paid (MOD) [**>> Pro <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/IPTV/IPTV_Extreme_Pro.apk)
-- Free (Original) [**>> Free <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/IPTV/IPTV_Extreme_Free_Ads.apk)
-- Follow the on-screen instructions and within a few minutes, you will have the icon of IPTV Extream on the home screen of your Android device.
-- The app is now installed, you can now launch it from the homescreen.
-- P.S You will need a Mac Portal to use this app, Message Skorpz to get yours!
-
-#### Install on Amazon Firesticks & Fire TVs [STEPS]
-
-- Install the (DOWNLOADER) app or click [**>> Here <<**](https://amzn.to/3oIIJhM)
-- Open the "DOWNLOADER" app, and enter the code `>> 998675 <<`
-- It will now download the latest version of IPTV Extream.
-- So when it open's the file, press install, then press done.
-- The app is now installed, you can now launch it from the homescreen.
-- P.S You will need a Mac Portal to use this app, Message Skorpz to get yours!
-
----
-
-
 
 ## How to Guide:
 <p>Here is a step-by-step guide on how you can install the BingieTV app.
@@ -93,3 +60,21 @@ Since we are going to install a 3rd party application, this requires you activat
 <br>
 For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 </p>
+
+#### Install on Android TV Boxs & Android Smartphones [STEPS]
+
+- Download the IPTV Extream Apk file.
+- Paid [**>> MOD <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/IPTV/IPTV_Extreme_Pro.apk)
+- Free [**>> Original <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/IPTV/IPTV_Extreme_Free_Ads.apk)
+- Follow the on-screen instructions and within a few minutes, you will have the icon of IPTV Extream on the home screen of your Android device.
+- The app is now installed, you can now launch it from the homescreen.
+- P.S You will need a Mac Portal to use this app, Message Skorpz to get yours!
+
+#### Install on Amazon Firesticks & Fire TVs [STEPS]
+
+- Search for "DOWNLOADER" via your amazon appstore or click [**>> Here <<**](https://amzn.to/3oIIJhM)
+- Open the "DOWNLOADER" app, and enter the code `>> 998675 <<`
+- It will now download the latest version of IPTV Extream.
+- So when it open's the file, press install, then press done.
+- The app is now installed, you can now launch it from the homescreen.
+- P.S You will need a Mac Portal to use this app, Message Skorpz to get yours!
