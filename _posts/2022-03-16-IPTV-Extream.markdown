@@ -51,9 +51,13 @@ However, the program Can’t work automatically; alternatively, users Will Need 
 ---
 
 ## How to Guide:
-<p>Here is a step-by-step guide on how you can install our apps.
+<p>Here is a step-by-step guide on how you can install the BingieTV app.
 <br>
-Just be sure to follow the right steps for your device, if you encounter any problems feel free to contact us for help. Since we are going to be installing a 3rd party application, this requires you to activat the option ‘Unknown Sources’ before proceeding with the installation. For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Then please turn it on.
+Just be sure to follow the right steps for your device, if you encounter any problems feel free to contact us for help.
+<br>
+Since we are going to install a 3rd party application, this requires you activating the option ‘Unknown Sources’ before proceeding with the installation.
+<br>
+For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 </p>
 
 #### Install on Android TV Boxs & Android Smartphones [STEPS]
@@ -70,8 +74,7 @@ Just be sure to follow the right steps for your device, if you encounter any pro
 - It will now download the latest version of IPTV Extream.
 - So when it open's the file, press install, then press done.
 - The app is now installed, you can now launch it from the homescreen.
-- You now can *Enjoy* your favourite TV Channels for free!
 
-- P.S 
+- P.S You will need a Mac Portal to use this app, Message Skorpz to get yours!
 
 ---
