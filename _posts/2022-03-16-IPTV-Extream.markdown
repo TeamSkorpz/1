@@ -9,11 +9,10 @@ date:   2022-03-16 12:00:00
 
 <div style="text-align: center"><img src="img/post/IPTV/iptv.png" width="250" height="250" /></div>
 ### What is IPTV Extream?
-<p>IPTV Extream, but with unlocked Features!</p>
-### Information:
+
 <div style="text-align: center"><img src="img/post/IPTV/IPTV-Extreme.jpg" width="450" height="350" /></div>
 
-IPTV Extreme is a comprehensive extension that lets users watch tremendous TV channel content or link with their provided IPTV service to enjoy everything smoothly through their phone interaction.
+<p>IPTV Extreme is a comprehensive extension that lets users watch tremendous TV channel content or link with their provided IPTV service to enjoy everything smoothly through their phone interaction.
 
 IPTV is presently one of the solutions broadly used and adored by a lot of individuals worldwide as the way of Entertainment. which come out of them are nearly infinite.
 
@@ -21,7 +20,7 @@ Lots of men and women encounter them frequently via smart TVs and alike, but few
 
 This post will present IPTV Extreme Pro, a very simple application and permits users to enjoy innumerable IPTV playlists directly on their smartphones. The program is friendly and compact in design, includes many helpful features, enabling users to enjoy interacting with available content.
 
-However, the program Can’t work automatically; alternatively, users Will Need to place it up for accessible playlists to see them anytime, anyplace
+However, the program Can’t work automatically; alternatively, users Will Need to place it up for accessible playlists to see them anytime, anyplace</p>
 ---
 
 ### Features/Mods:
