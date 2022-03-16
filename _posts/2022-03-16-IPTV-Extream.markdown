@@ -67,6 +67,8 @@ For that, please navigate to Settings -> Security on your Android Device. Scroll
 - The app is now installed, you can now launch it from the homescreen.
 - You will need a Mac Portal to use this app, Message Skorpz to get yours!
 
+Small Note: Find settings, Then go to General and find "Play on click" and enable it.
+
 #### Amazon Devices [STEPS BELOW!]
 
 - Search for **[>> Downloader <<](https://amzn.to/3oIIJhM)** via your Amazon appstore and install it.
