@@ -22,6 +22,7 @@ This post will present IPTV Extreme Pro, a very simple application and permits u
 <br>
 However, the program Can’t work automatically; alternatively, users Will Need to place it up for accessible playlists to see them anytime, anyplace</p>
 
+
 <div style="text-align: center"><img src="img/post/IPTV/IPTV-Extreme.jpg" width="450" height="350" /></div>
 
 ---
@@ -72,7 +73,7 @@ For that, please navigate to Settings -> Security on your Android Device. Scroll
 
 #### Amazon Devices [STEPS BELOW!]
 
-- Search for "**Downloader**" via your Amazon appstore or click [**>> Here <<**](https://amzn.to/3oIIJhM)
+- Search for [** Downloader <**](https://amzn.to/3oIIJhM) via your Amazon appstore.[**>> Downloader <<**](https://amzn.to/3oIIJhM)
 - Open the "**Downloader**" app, and enter the code >> ** 998675 ** <<
 - It will now download the latest version of IPTV Extream.
 - So when it open's the file, press install, then press done.
