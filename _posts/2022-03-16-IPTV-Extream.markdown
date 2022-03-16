@@ -10,6 +10,15 @@ date:   2022-03-16 12:00:00
 <div style="text-align: center"><img src="img/post/IPTV/iptv.png" width="250" height="250" /></div>
 ### What is IPTV Extream?
 
+## How to Guide:
+<p>Here is a step-by-step guide on how you can install the BingieTV app.
+<br>
+Just be sure to follow the right steps for your device, if you encounter any problems feel free to contact us for help.
+<br>
+Since we are going to install a 3rd party application, this requires you activating the option ‘Unknown Sources’ before proceeding with the installation.
+<br>
+For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
+</p>
 <p>IPTV Extreme is a comprehensive extension that lets users watch tremendous TV channel content or link with their provided IPTV service to enjoy everything smoothly through their phone interaction.
 <br>
 IPTV is presently one of the solutions broadly used and adored by a lot of individuals worldwide as the way of Entertainment. which come out of them are nearly infinite.
