@@ -11,7 +11,7 @@ date:   2022-03-16 12:00:00
 ### What is IPTV Extream?
 <p>IPTV Extream, but with unlocked Features!</p>
 ### Information:
-<div style="text-align: center"><img src="img/post/IPTV/IPTV-Extreme.jpg" width="300" height="200" /></div>
+<div style="text-align: center"><img src="img/post/IPTV/IPTV-Extreme.jpg" width="450" height="350" /></div>
 
 ---
 
