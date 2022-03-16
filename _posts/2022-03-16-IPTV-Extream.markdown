@@ -71,10 +71,12 @@ Since we are going to install a 3rd party application, this requires you activat
 
 #### Install on Android TV Boxs & Android Smartphones [STEPS]
 
-- Download the IPTV Extream Apk file from [**>> Here <<**]().
+- Download the IPTV Extream Apk file.
+- Paid (MOD) [**>> Pro <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/IPTV/IPTV_Extreme_Pro.apk)
+- Free (Original) [**>> Free <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/IPTV/IPTV_Extreme_Free_Ads.apk)
 - Follow the on-screen instructions and within a few minutes, you will have the icon of IPTV Extream on the home screen of your Android device.
 - The app is now installed, you can now launch it from the homescreen.
-- You will need to add a portal before you cn use it!
+- P.S You will need a Mac Portal to use this app, Message Skorpz to get yours!
 
 #### Install on Amazon Firesticks & Fire TVs [STEPS]
 
@@ -83,7 +85,6 @@ Since we are going to install a 3rd party application, this requires you activat
 - It will now download the latest version of IPTV Extream.
 - So when it open's the file, press install, then press done.
 - The app is now installed, you can now launch it from the homescreen.
-
 - P.S You will need a Mac Portal to use this app, Message Skorpz to get yours!
 
 ---
