@@ -15,13 +15,14 @@
 "update_content":"You can only update if you are using TeamSkorpz modded version.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 3.1.0</br>
+<br>- Version: 3.1.2</br>
 <br>- Size: 19.1MB</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add Mcll Cdn, Molmv link.</br>
-<br>- Add Sf, Voe host.</br>
-<br>- Fix bugs.</br>", 
+<br>- Add Good, Vidsrc link.</br>
+<br>- Fix bugs.</br>",  
+"update_build":"125",  
+"update_version":"3.1.2", 
 "update_build":"123",  
 "update_version":"3.1.0", 
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",   
