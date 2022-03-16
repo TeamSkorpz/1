@@ -31,14 +31,14 @@ date:   2022-03-16 12:00:00
 >>For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Then please turn it on.
 </p>
 
-#### Install SwiftStreamz on Android TV Boxs & Android Smartphones [STEPS]
+#### Install on Android TV Boxs & Android Smartphones [STEPS]
 
 - Download the IPTV Extream Apk file from [**>> Here <<**]().
 - Follow the on-screen instructions and within a few minutes, you will have the icon of IPTV Extream on the home screen of your Android device.
 - The app is now installed, you can now launch it from the homescreen.
 - You will need to add a portal before you cn use it!
 
-#### Install SwiftStreamz on Amazon Firesticks & Fire TVs [STEPS]
+#### Install on Amazon Firesticks & Fire TVs [STEPS]
 
 - Ask alexa to Install the (Downloader) app or click [**>> Here <<**](https://amzn.to/3oIIJhM) to open the Amazon website.
 - Once installed, Open the (Downloader) app and enter the code `>> 446735 <<` then press enter!
