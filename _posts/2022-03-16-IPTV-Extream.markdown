@@ -69,7 +69,7 @@ For that, please navigate to Settings -> Security on your Android Device. Scroll
 
 #### Amazon Devices [STEPS BELOW!]
 
-- Search for [** Downloader **](https://amzn.to/3oIIJhM) via your Amazon appstore.
+- Search for **[Downloader](https://amzn.to/3oIIJhM)** via your Amazon appstore.
 - Open the '**Downloader**' app, and enter the code '**998675**'
 - It will now download the latest version of IPTV Extream.
 - So when it open's the file, press install, then press done.
