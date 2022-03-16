@@ -65,13 +65,13 @@ For that, please navigate to Settings -> Security on your Android Device. Scroll
 - [**>> MOD APK <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/IPTV/IPTV_Extreme_Pro.apk)
 - Follow the on-screen instructions and within a few minutes, you will have the icon of IPTV Extream on the home screen of your Android device.
 - The app is now installed, you can now launch it from the homescreen.
-- P.S You will need a Mac Portal to use this app, Message Skorpz to get yours!
+- You will need a Mac Portal to use this app, Message Skorpz to get yours!
 
 #### Amazon Devices [STEPS BELOW!]
 
-- Search for [** Downloader <**](https://amzn.to/3oIIJhM) via your Amazon appstore.[**>> Downloader <<**](https://amzn.to/3oIIJhM)
+- Search for [** Downloader **](https://amzn.to/3oIIJhM) via your Amazon appstore.
 - Open the "**Downloader**" app, and enter the code >> ** 998675 ** <<
 - It will now download the latest version of IPTV Extream.
 - So when it open's the file, press install, then press done.
 - The app is now installed, you can now launch it from the homescreen.
-- P.S You will need a Mac Portal to use this app, Message Skorpz to get yours!
+- You will need a Mac Portal to use this app, Message Skorpz to get yours!
