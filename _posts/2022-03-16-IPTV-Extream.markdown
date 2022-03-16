@@ -17,11 +17,7 @@ IPTV-Extreme is a Internet Provided Television streaming app, that requires you 
 IPTV is presently one of the solutions broadly used and adored by a lot of individuals worldwide as the way of Entertainment. which come out of them are nearly infinite.
 <br>
 Lots of men and women encounter them frequently via smart TVs and alike, but few men and women encounter them on their smartphones for a lot of reasons.
-<br>
-This post will present IPTV Extreme Pro, a very simple application and permits users to enjoy innumerable IPTV playlists directly on their smartphones. The program is friendly and compact in design, includes many helpful features, enabling users to enjoy interacting with available content.
-<br>
-However, the program Can’t work automatically; alternatively, users Will Need to place it up for accessible playlists to see them anytime, anyplace</p>
-
+</p>
 
 <div style="text-align: center"><img src="img/post/IPTV/IPTV-Extreme.jpg" width="450" height="350" /></div>
 
