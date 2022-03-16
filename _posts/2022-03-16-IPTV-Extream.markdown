@@ -61,7 +61,7 @@ For that, please navigate to Settings -> Security on your Android Device. Scroll
 
 #### Android Devices [STEPS BELOW!]
 
-- Download the IPTV Extream Apk file from below \/
+- Download the IPTV Extream Apk file from below.
 - [**>> MOD APK <<**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/IPTV/IPTV_Extreme_Pro.apk)
 - Follow the on-screen instructions and within a few minutes, you will have the icon of IPTV Extream on the home screen of your Android device.
 - The app is now installed, you can now launch it from the homescreen.
