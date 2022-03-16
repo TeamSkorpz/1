@@ -64,9 +64,9 @@ However, the program Can’t work automatically; alternatively, users Will Need 
 <br>
 Just be sure to follow the right steps for your device, if you encounter any problems feel free to contact us for help.
 <br>
-Since we are going to install a 3rd party application, this requires you activating the option ‘Unknown Sources’ before proceeding with the installation.
+Since we are going to install a 3rd party application, this requires you activating the option **"Unknown Sources"** before proceeding with the installation.
 <br>
-For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
+>For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for **>> Unknown Sources <<** Please turn it on.
 </p>
 
 #### Install on Android TV Boxs & Android Smartphones [STEPS]
