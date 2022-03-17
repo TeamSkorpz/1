@@ -20,11 +20,9 @@
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add Good, Vidsrc link.</br>
-<br>- Fix bugs.</br>",  
-"update_build":"125",  
-"update_version":"3.1.2", 
-"update_build":"123",  
-"update_version":"3.1.0", 
+<br>- Fix bugs.</br>",   
+"update_build":"124",  
+"update_version":"3.1.1", 
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",   
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
