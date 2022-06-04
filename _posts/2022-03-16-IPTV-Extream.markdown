@@ -3,7 +3,7 @@ title:  "Project Racing (Alpha v0.0.1)!"
 subtitle: "Android, Racing"
 author: "Mr_Skorpz"
 avatar: "img/authors/Skorpz.png"
-image: "img/cRcauNL-modified.png"
+image: "img/post/cRcauNL-modified.png"
 date:   2022-03-16 12:00:00
 ---
 
