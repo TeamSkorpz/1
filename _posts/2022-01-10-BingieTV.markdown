@@ -3,7 +3,7 @@ title:  "BingieTV (Ad-free) (App)!"
 subtitle: "Android, Entertainment"
 author: "Skorpz"
 avatar: "img/authors/Skorpz.png"
-image: "img/a.jpg"
+image: "img/Bingie.jpg"
 date:   2022-01-10 12:00:00
 ---
 
