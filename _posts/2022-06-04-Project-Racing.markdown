@@ -3,16 +3,16 @@ title:  "BingieTV (Ad-free) (App)!"
 subtitle: "Android, Entertainment"
 author: "Skorpz"
 avatar: "img/authors/Skorpz.png"
-image: "img/a.jpg"
-date:   2022-01-10 12:00:00
+image: "img/Project-Racing.png"
+date:   2022-06-04 12:00:00
 ---
 
-<div style="text-align: center"><img src="img/post/bingie/splash.png" width="250" height="250" /></div>
-### What is BingieTV?
+<div style="text-align: center"><img src="img/post/PRO/splash.png" width="250" height="250" /></div>
+### What is Project Racing Online?
 <p>BingieTV is a Modded version of the BeeTV app, but with Unlocked Features!</p>
 ### Information:
  BingieTV allow you to watch Movies and Tv Shows online for free, and it work on most Android devices, Amazon Fire Devices and Windows PC/Laptops. It is simply a modular search tool for content. which mean it crawls Movie/Tv Shows hosting websites and it can find and return the videos hosted on those sites, all using the Modules built by the amazing members of our community.
-<div style="text-align: center"><img src="img/post/bingie/Banner-BingieTV.png" width="350" height="250" /></div>
+<div style="text-align: center"><img src="img/post/PRO/Project-Racing.png" width="350" height="250" /></div>
 
 ---
 
