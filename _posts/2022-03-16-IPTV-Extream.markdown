@@ -7,9 +7,10 @@ image: "img/post/cRcauNL-modified.png"
 date:   2022-03-16 12:00:00
 ---
 
-<div style="text-align: center"><img src="img/post/cRcauNL-modified.png" width="250" height="250" /></div>
 ### Information:
 # Project racing is an open world vehicle simulator for Android, ISO and PC.
+
+<div style="text-align: center"><img src="img/post/cRcauNL-modified.png" width="250" height="250" /></div>
 
 ### Dose the game have a release date?
 ## No, the game is still being developed and doesn't have a release date!
