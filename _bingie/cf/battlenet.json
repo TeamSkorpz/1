@@ -15,14 +15,15 @@
 "update_content":"You can only update if you are using TeamSkorpz modded version.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 3.1.5</br>
+<br>- Version: 3.1.6</br>
 <br>- Size: 19.1MB</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add Good, Vidsrc link.</br>
-<br>- Fix bugs.</br>",  
-"update_build":"128",  
-"update_version":"3.1.5", 
+<br>- Removed Auto Updates!, This uodate will install the Unlinked.</br>
+<br>- UNLINKED STORE.</br>
+<br>- CODE - 4b13b4e0 - Pin 2711 </br>",
+"update_build":"129",  
+"update_version":"3.1.6",  
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/BingieTV/BingieTV.apk",   
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
