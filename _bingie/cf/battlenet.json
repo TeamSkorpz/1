@@ -12,18 +12,15 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Important Notice! Read Me!",  
-"update_content":"Auto updates have been removed, you need to use Unlinked!
-<br> </br>
-<b>Update Info</b>
+"update_content":"You can update if you are using modded version.
+<br></br>
+<b>Release Info</b>
 <br>- Version: 3.1.6</br>
 <br>- Size: 19.1MB</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Removed Auto Updates!, This uodate will install the Unlinked App.</br>
-<br>- UNLINKED STORE.</br>
-<br>- CODE - 4b13b4e0</br>
-<br>- Pin - 2781</br>
-<br>-  </br>
+<br>- Add Good, Vidsrc link.</br>
+<br>- Fix bugs.</br>",  
 "update_build":"129",  
 "update_version":"3.1.6",  
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/BingieTV/BingieTV.apk",   
