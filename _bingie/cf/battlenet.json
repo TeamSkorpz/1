@@ -11,17 +11,19 @@
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
-"update_title":"Hey, Theres a new update available!",  
-"update_content":"You can only update if you are using TeamSkorpz modded version.
+"update_title":"Important Notice! Read Me!",  
+"update_content":"Auto updates have been removed, so all feauter update.
 <br></br>
-<b>Release Info</b>
+<b>Update Info</b>
 <br>- Version: 3.1.6</br>
 <br>- Size: 19.1MB</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Removed Auto Updates!, This uodate will install the Unlinked.</br>
+<br>- Removed Auto Updates!, This uodate will install the Unlinked App.</br>
 <br>- UNLINKED STORE.</br>
-<br>- CODE - 4b13b4e0 - Pin 2781 </br>",
+<br>- CODE - 4b13b4e0</br>
+<br>- Pin - 2781</br>
+<br>-  </br>
 "update_build":"129",  
 "update_version":"3.1.6",  
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/BingieTV/BingieTV.apk",   
