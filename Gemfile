@@ -1,9 +1,6 @@
 source "https://rubygems.org"
 
-gem "kramdown"
-gem "kramdown-parser-gfm"
-gem "rouge"
-gem "jekyll"
+gem "jekyll", "~> 4.1"
+gem "jekyll-environment-variables"
+gem "jekyll-postcss"
 gem "jekyll-paginate"
-gem "jekyll-paginate-content"
-gem "json"

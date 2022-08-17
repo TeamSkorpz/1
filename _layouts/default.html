@@ -1,17 +1,23 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
-<html lang="{{ site.language }}" class="no-js">
-    {% include head.html %}
-    <body class="has-push-menu">
-        {% include svg-icons.html %}
-        {% include header.html %}
-            <section class="content">
-                {{ content }}
-            </section>
-        {% include footer.html %}
-    </body>
-</html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta content="ie=edge" http-equiv="x-ua-compatible">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
 
+    {% include meta.html %}
+
+    <link rel="icon" href="{{ '/favicon.png' | relative_url }}">
+    <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
+  </head>
+  <body class="page {{page.bodyClass}}">
+    {% include mobile-menu.html %}
+    <div class="container mx-auto px-6 md:px-4">
+      {% include header.html %}
+      {{content}}
+      {% include footer.html %}
+    </div>
+    {% include google-analytics.html %}
+    <script type="text/javascript" src="{{ '/assets/js/hamburger.js' | relative_url }}"></script>
+  </body>
+</html>
