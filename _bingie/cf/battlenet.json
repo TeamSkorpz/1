@@ -12,17 +12,17 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage to support developer.
+"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 3.2.0</br>
-<br>- Size: 19.1MB</br>
+<br>- Version: 3.2.8</br>
+<br>- Size: 19.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add Good, Vidsrc link.</br>
-<br>- Fix bugs.</br>",  
-"update_build":"133",  
-"update_version":"3.2.0",  
+<br>- Filter English movies and tv shows.</br>
+<br>- Add links.</br>",  
+"update_build":"141",  
+"update_version":"3.2.8",   
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Streaming/BingieTV.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
