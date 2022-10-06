@@ -21,8 +21,8 @@
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv shows.</br>
 <br>- Add links.</br>",  
-"update_build":"145",  
-"update_version":"3.3.2",  
+"update_build":"144",  
+"update_version":"3.3.1",  
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Streaming/BingieTV.apk", 
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
@@ -50,7 +50,7 @@
 "menu_link_tv":"google.co.uk",
 "menu_link_phone":"google.co.uk",
 "menu_text_phone":"New Update Avaiable!",
-"enable_cms":"0",
+"enable_cms":"1",
 "show_ads":"1",
 "downloader_package_name":"com.one.downloader",
 "downloader_name":"One Downloader",
