@@ -4,7 +4,7 @@ subtitle: "Android"
 author: "Mr Skorpz"
 avatar: "img/authors/Social-Avatar.png"
 image: "img/post/filesynced/FileSynced-Home.png"
-date:   2022-02-10 12:00:00
+date:   2022-10-10 12:00:00
 ---
 
 <div style="text-align: center"><img src="img/post/filesynced/FileSynced.png" width="250" height="250" /></div>
