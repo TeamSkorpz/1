@@ -31,7 +31,7 @@ There will be different methods of downloading the FileSynced APK.
 
 #### How To Install FileSynced On Android TV Box?
 ##### [PlayStore Methord]
-How To Install FileSynced On Android TV Box
+###### [Steps:]
 1. Navigate to Downloader app on your Android TV Box or open the PlayStore
 2. In the search bar, enter "Downloader by AFTVnews"
 3. Press Install on "Downloader" and then open it after its installed.
@@ -43,6 +43,7 @@ NOTE: Remember to check back once in awhile to see if there has been any updates
 
 #### How to install FileSynced on Phone or Tablet
 ##### [Browser Method]
+###### [Steps:]
 1. Open your browser of choice.
 2. In the URL bar enter ‘ [**>> TeamSkorpz.co.uk <<**](https://teamskorpz.co.uk) ‘
 3. Navigate to the "FileSynced post" and head to the ‘Bottom of the post‘
