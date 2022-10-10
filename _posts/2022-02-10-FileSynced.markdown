@@ -3,7 +3,7 @@ title:  "FileSynced [Latest]"
 subtitle: "Android"
 author: "Mr Skorpz"
 avatar: "img/authors/Social-Avatar.png"
-image: "img/post/filesynced/FileSynced.png.png"
+image: "img/post/filesynced/FileSynced-Home.png"
 date:   2022-02-10 12:00:00
 ---
 
