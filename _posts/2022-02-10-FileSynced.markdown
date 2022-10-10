@@ -30,27 +30,32 @@ So make sure you follow the correct steps for your device!
 ##### [Browser Method]
 1. Open your browser of choice.
 2. In the URL bar enter [**>> TeamSkorpz.co.uk <<**](https://teamskorpz.co.uk)
-3. Navigate to the "FileSynced post" and head to the ‘Bottom of the post‘
-4. Download the "Latest APK" and wait for the download to start, then continue to install FileSynced.
-5. Once it's finished, click DELETE to remove FileSynced APK file __(Optional Step!)__
-6. Open the FileSynced App and use my code __‘98767862’__ which will be updated daily
+3. Navigate to the "FileSynced post" and head to the __"Bottom of the post"__
+4. Download the __"Latest APK"__ and wait for the download to start, then continue to install FileSynced.
+5. __(Optional Step!)__ Once it's finished, click DELETE to remove FileSynced APK file
+6. Now open the FileSynced App and navigate to the setting tab and enable "Auto-Install"
+7. Go back to the FileSynced homescreen and now use my code __‘98767862’__ which will be updated daily/weekly!
 
 #### How To Install FileSynced On Android TV Box?
 ##### [PlayStore Methord]
 1. Navigate to PlayStore on your Android TV Box
-2. In the search bar, enter [**>> Downloader by AFTVnews <<**](https://play.google.com/store/apps/details?id=com.esaba.downloader), then press Install.
-3. Open it after it's been installed.
-4. Navigate to the setting tab in the FileSynced __"Home Menu"__ and enable "Auto-Install"
-5. Now go back to FileSynced homescreen and use my code __‘98767862’__ which will be updated daily
+2. In the search bar, enter [**>> Downloader by AFTVnews <<**](https://play.google.com/store/apps/details?id=com.esaba.downloader)
+3. Click __"install"__, and then proceed to open it
+4. Now in the URL bar enter code __"6548662"__
+5. Wait for the download to start, then continue to click install FileSynced
+6. Now Navigate to the setting tab in the FileSynced __"Home Menu"__ and enable "Auto-Install"
+7. Go back to the FileSynced homescreen and now use my code __‘98767862’__ which will be updated daily/weekly!
 
 #### How to install FileSynced on Firestick
 ##### [AFTV Downloader Methord]
 1. Navigate to Amazon [**>> Appstore << [Downloader]**](https://play.google.com/store/apps/details?id=com.esaba.downloader)
  on your Firestick
-2. In the Search bar enter __‘Downloader‘__
-3. Click __‘Download/install’__, then proceed to open it.
-4. Navigate to the setting tab in the FileSynced __"Home Menu"__ and enable __"Auto-Install"__
-5. Now go back to FileSynced homescreen and use my code __‘98767862’__ which will be updated daily
+2. In the Search bar, enter __"Downloader by AFTVnews"__
+3. Click __"install"__, and then proceed to open it
+4. Now in the URL bar enter code __"6548662"__
+5. Wait for the download to start, then continue to click install FileSynced
+6. Now Navigate to the setting tab in the FileSynced __"Home Menu"__ and enable "Auto-Install"
+7. Go back to the FileSynced homescreen and now use my code __‘98767862’__ which will be updated daily/weekly!
 
 ### Downloads: [Direct APKs] {#downloads}
 
