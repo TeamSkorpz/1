@@ -1,5 +1,5 @@
 ---
-title:  "FileSynced [Latest]"
+title:  "FileSynced v3.3 [Latest]"
 subtitle: "Android"
 author: "Mr Skorpz"
 avatar: "img/authors/Social-Avatar.png"
