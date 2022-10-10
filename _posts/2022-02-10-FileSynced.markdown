@@ -44,7 +44,7 @@ NOTE: Remember to check back once in awhile to see if there has been any updates
 #### How to install FileSynced on Phone or Tablet
 ##### [Browser Method]
 1. Open your browser of choice.
-2. In the URL bar enter ‘ www.teamskorpz.co.uk ‘
+2. In the URL bar enter ‘ [**>> TeamSkorpz.co.uk <<**](https://teamskorpz.co.uk) ‘
 3. Navigate to the "FileSynced post" and head to the ‘Bottom of the post‘
 4. Press ‘Download‘ and wait for the download to start then continue to click install FileSynced
 5. When finished, click DELETE to remove FileSynced APK file
@@ -59,3 +59,4 @@ NOTE: Remember to check back once in awhile to see if there has been any updates
 ### Downloads: [Direct APKs]
 
 [**>> FileSynced v3.3.1 <<**](https://bit.ly/BingieTVApk)
+[**>> Downloader by AFTVnews <<**](https://play.google.com/store/apps/details?id=com.esaba.downloader) 
