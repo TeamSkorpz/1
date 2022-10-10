@@ -24,6 +24,7 @@ There are a few ‘FAKE’ versions of FileSynced floating about which you SHOUL
 
 ### You can download the FileSynced APK from the links below.
 There will be different methods of downloading the FileSynced APK.
+So make sure you follow the correct steps!
 
 #### How To Install FileSynced On Android TV Box?
 ##### [PlayStore Methord]
