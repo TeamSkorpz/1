@@ -52,6 +52,7 @@ So make sure you follow the correct steps!
 
 [**>> FileSynced v3.3.1 [APK] <<**](https://bit.ly/BingieTVApk)
 |
+|
 [**>> Downloader by AFTVnews [GooglePlay]<<**](https://play.google.com/store/apps/details?id=com.esaba.downloader)
 
 NOTE: Remember to check back once in awhile to see if there has been any updates :)
