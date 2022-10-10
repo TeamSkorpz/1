@@ -3,11 +3,11 @@ title:  "FileSynced [Latest]"
 subtitle: "Android"
 author: "Mr Skorpz"
 avatar: "img/authors/Social-Avatar.png"
-image: "img/post/FileSynced/FileSynced-modified.png"
-date:   2022-06-08 12:00:00
+image: "img/post/filesynced/FileSynced.png.png"
+date:   2022-02-10 12:00:00
 ---
 
-<div style="text-align: center"><img src="img/post/bingie/FileSynced.png" width="250" height="250" /></div>
+<div style="text-align: center"><img src="img/post/filesynced/FileSynced.png" width="250" height="250" /></div>
 
 FILESYNCED – A Complete Beginners Guide 2021
 
