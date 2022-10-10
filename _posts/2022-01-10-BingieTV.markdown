@@ -101,7 +101,7 @@ For that, please navigate to Settings -> Security on your Android smartphone. Sc
 ### Downloads:
 
 [**>> BingieTV v3.3.1 - Direct APK <<**](https://bit.ly/BingieTVApk)
-==================
+
 [**>> Titan Player 1.4.5x - Direct APK <<**](https://bit.ly/3CHbcLA)
 ##### This is Required for BingieTV to play links!
 
