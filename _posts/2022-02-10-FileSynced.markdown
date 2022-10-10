@@ -65,4 +65,4 @@ __Screenshot:__
 
 [**>> FileSynced v3.3.1 << [Latest] [APK]**](https://bit.ly/3yskVCX)
 
-NOTE: Remember to check back once in awhile to see if there has been any updates :)
+NOTE: Remember to check back once in a while to see if there has been any updates :)
