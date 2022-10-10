@@ -67,9 +67,9 @@ This app has no advertisements!
 
 ### Screenshots:
 
-<div style="text-align: center"><img src="img/post/bingie/Bingie-Screenshot-1.png" width="250" height="350" /></div>
+<div style="text-align: center"><img src="img/post/bingie/Bingie-Screenshot-1.jpg" width="250" height="350" /></div>
 
-<div style="text-align: center"><img src="img/post/bingie/Bingie-Screenshot-2.png" width="250" height="350" /></div>
+<div style="text-align: center"><img src="img/post/bingie/Bingie-Screenshot-2.jpg" width="250" height="350" /></div>
 
 
 ## How to Guide:
