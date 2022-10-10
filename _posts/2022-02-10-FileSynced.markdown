@@ -45,8 +45,9 @@ So make sure you follow the correct steps for your device!
 
 #### How to install FileSynced on Firestick
 ##### [AFTV Downloader Methord]
-1. Navigate to Amazon AppStore on your Firestick
-2. In the Search bar enter code __‘Downloader‘__
+1. Navigate to Amazon [**>> Appstore << [Downloader]**](https://play.google.com/store/apps/details?id=com.esaba.downloader)
+ on your Firestick
+2. In the Search bar enter __‘Downloader‘__
 3. Click __‘Download/install’__, then proceed to open it.
 4. Navigate to the setting tab in the FileSynced __"Home Menu"__ and enable __"Auto-Install"__
 5. Now go back to FileSynced homescreen and use my code __‘98767862’__ which will be updated daily
