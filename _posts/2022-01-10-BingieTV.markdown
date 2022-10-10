@@ -101,5 +101,7 @@ This app has no advertisements!
 ### Downloads:
 
 [**>> BingieTV v3.3.1 - Direct APK <<**](https://bit.ly/BingieTVApk)
+### This is Required for BingieTV to play links!
+[**>> Titan Player - Direct APK <<**](https://bit.ly/BingieTVApk)
 
 
