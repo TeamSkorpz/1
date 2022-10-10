@@ -3,7 +3,7 @@ title:  "BingieTV v3.3.1 [Mod Extra] [Latest]"
 subtitle: "Android, Entertainment"
 author: "Mr Skorpz"
 avatar: "img/authors/Social-Avatar.png"
-image: "img/post/bingie/Bingie-modified.png"
+image: "img/post/bingie/Bingie-modified-1.png"
 date:   2022-06-08 12:00:00
 ---
 
