@@ -22,7 +22,7 @@ Well, the developers don’t want to directly imitate Filelinked, they want to c
 - Is filesynced safe
 There are a few ‘FAKE’ versions of FileSynced floating about which you SHOULD NOT download. I covered this in a video which you can watch here :
 
-### You can download the FileSynced APK from the links below. {#downloads}
+### You can download the FileSynced APK from the links below.  {#install}
 There will be different methods of downloading the FileSynced APK.
 So make sure you follow the correct steps!
 
@@ -48,11 +48,11 @@ So make sure you follow the correct steps!
 10. Open FileSynced App
 11. Use my code ‘98767862’ which will be updated daily
 
-### Downloads: [Direct APKs]
+### Downloads: [Direct APKs] {#downloads}
 
-[**>> FileSynced v3.3.1 [APK] <<**](https://bit.ly/BingieTVApk)
-|
-|
+[**>> FileSynced v3.3.1 [APK] <<**](https://bit.ly/3yskVCX)
+
+
 [**>> Downloader by AFTVnews [GooglePlay]<<**](https://play.google.com/store/apps/details?id=com.esaba.downloader)
 
 NOTE: Remember to check back once in awhile to see if there has been any updates :)
