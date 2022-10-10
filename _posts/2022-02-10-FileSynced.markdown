@@ -39,7 +39,7 @@ So make sure you follow the correct steps!
 #### How to install FileSynced on Phone or Tablet
 ##### [Browser Method]
 1. Open your browser of choice.
-2. In the URL bar enter ‘ [**>> TeamSkorpz.co.uk <<**](https://teamskorpz.co.uk) ‘
+2. In the URL bar enter [**>> TeamSkorpz.co.uk <<**](https://teamskorpz.co.uk)
 3. Navigate to the "FileSynced post" and head to the ‘Bottom of the post‘
 4. Press ‘Download‘ and wait for the download to start then continue to click install FileSynced
 5. When finished, click DELETE to remove FileSynced APK file
