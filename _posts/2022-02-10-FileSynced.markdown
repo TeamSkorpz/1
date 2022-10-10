@@ -30,7 +30,7 @@ So make sure you follow the correct steps for your device!
 ##### [Browser Method]
 1. Open your browser of choice.
 2. In the URL bar enter [**>> TeamSkorpz.co.uk <<**](https://teamskorpz.co.uk)
-3. Navigate to the __"Bottom of the page"__
+3. Navigate to the __"FileSynced Post"__ and navigate to the bottom of the page
 4. Download the __"Latest APK"__ and wait for the download to start, then continue to install FileSynced.
 5. __(Optional Step!)__ Once it's finished, click DELETE to remove FileSynced APK file
 6. Now open the FileSynced App and navigate to the setting tab and enable "Auto-Install"
