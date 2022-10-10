@@ -11,7 +11,7 @@ date:   2022-10-10 12:00:00
 
 FILESYNCED – A Complete Beginners Guide 2021
 
-### What is FileSynced?
+### What is FileSynced? {#info}
 - FileSynced is a replacement to Filelinked. It offers an easy method of installing the latest apps that are not accessible on the Google Playstore or Amazon App store.
 - To use FileSynced, you simply enter a code into the FileSynced app, which provides access to download apps directly from each FileSynced code…. very much like Filelinked.
 - Whats different with FileSynced?
@@ -22,7 +22,7 @@ Well, the developers don’t want to directly imitate Filelinked, they want to c
 - Is filesynced safe
 There are a few ‘FAKE’ versions of FileSynced floating about which you SHOULD NOT download. I covered this in a video which you can watch here :
 
-### You can download the FileSynced APK from the links below.
+### You can download the FileSynced APK from the links below. {#downloads}
 There will be different methods of downloading the FileSynced APK.
 So make sure you follow the correct steps!
 
