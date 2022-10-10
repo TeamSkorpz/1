@@ -20,7 +20,7 @@ Well, the developers don’t want to directly imitate Filelinked, they want to c
 - You can access the latest trending codes, or view your historic codes, making it easier to accessing your favorite FileSycned codes.
 - Whilst FileSynced app contains no viruses and is completely safe to use, we still recommend using a VPN for streaming apps and such.
 - Is filesynced safe
-There are a few ‘FAKE’ versions of FileSynced floating about which you SHOULD NOT download. I covered this in a video which you can watch here :
+There are a few ‘FAKE’ versions of FileSynced floating about which you SHOULD NOT download.
 
 ### You can download the FileSynced APK from the links below.  {#install}
 There will be different methods of downloading the FileSynced APK.
