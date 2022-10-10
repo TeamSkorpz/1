@@ -35,6 +35,7 @@ So make sure you follow the correct steps for your device!
 5. __(Optional Step!)__ Once it's finished, click DELETE to remove FileSynced APK file
 6. Now open the FileSynced App and navigate to the setting tab and enable "Auto-Install"
 7. Go back to the FileSynced homescreen and now use my code __‘98767862’__ which will be updated daily/weekly!
+<div style="text-align: center"><img src="img/post/bingie/Screenshot_1.jpg" width="250" height="150" /></div>
 
 #### How To Install FileSynced On Android TV Box?
 ##### [PlayStore Methord]
