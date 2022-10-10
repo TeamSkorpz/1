@@ -3,7 +3,7 @@ title:  "BingieTV v3.3.1 [Mod Extra] [Latest]"
 subtitle: "Android, Entertainment"
 author: "Mr Skorpz"
 avatar: "img/authors/Social-Avatar.png"
-image: "img/post/bingie/Bingie-modified-1.png"
+image: "img/post/bingie/Bingie-modified.png"
 date:   2022-06-08 12:00:00
 ---
 
@@ -12,31 +12,23 @@ date:   2022-06-08 12:00:00
 Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
 
 ### What is BingieTV?
+- BingieTV is an app allow you to watch movies and tv shows online for free. BingieTV work on Android phone, Android TV, Amazon Firestick, FireTV, etc.
+- Login? No need, You don’t need to have an account when using BingieTV.
+- Awesome interface.
+- BingieTV has been built from the ground up with performance in mind for a fast and efficient experience to surfing your collection.
+- Does it cost?
+- BingieTV is working on your behalf and making entertainment free, at no cost to you.
+- FREE and 1080p HD TV Shows and movies
+- Free Movies is the latest add-on with Movies and TV Shows in Full HD 1080p & HD 720p
+- It provides almost any TV shows and movies.
+- Many genre such as Drama, Crime, Comedy, Adventure, Family, Horror, Thriller, Romance, Western, Animation, Biography and more.
+- If you are a true movies and TV shows enthusiast, then all you really need is BingieTV!
 
-BingieTV is an app allow you to watch movies and tv shows online for free. BingieTV work on Android phone, Android TV, Amazon Firestick, FireTV, etc.
-
-Login? No need.
-You don’t need to have an account when using BingieTV.
-
-Awesome interface.
-BingieTV has been built from the ground up with performance in mind for a fast and efficient experience to surfing your collection.
-
-Does it cost?
-BingieTV is working on your behalf and making entertainment free, at no cost to you.
-
-FREE and 1080p HD TV Shows and movies
-Free Movies is the latest add-on with Movies and TV Shows in Full HD 1080p & HD 720p
-
-It provides almost any TV shows and movies.
-Many genre such as Drama, Crime, Comedy, Adventure, Family, Horror, Thriller, Romance, Western, Animation, Biography and more.
-
-If you are a true movies and TV shows enthusiast, then all you really need is BingieTV!
-
-### What’s New:
+#### What’s New:
 - Add Good, Vidsrc link.
 - Fix bugs.
 
-### Features/Mod info:
+#### Features/Mod info:
 
 - Ads disabled / removed;
 - Disabled / Removed unwanted Permissions + Receivers + Providers + Services;
