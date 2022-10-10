@@ -74,10 +74,10 @@ This app has no advertisements!
 
 ## How to Guide:
 
->Since we are going to install a 3rd party application, this requires you activating the option ‘Unknown Sources’ before proceeding with the installation.
+>>Since we are going to install a 3rd party application, this requires you activating the option ‘Unknown Sources’ before proceeding with the installation.
 For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 
-#### Install via our FileSynced Store! [Guide]
+#### Install via our FileSynced Code! [Guide]
 
 1. Coming Soon!
 
