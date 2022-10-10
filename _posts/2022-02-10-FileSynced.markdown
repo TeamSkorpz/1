@@ -29,12 +29,10 @@ So make sure you follow the correct steps!
 #### How To Install FileSynced On Android TV Box?
 ##### [PlayStore Methord]
 1. Navigate to Downloader app on your Android TV Box or open the PlayStore
-2. In the search bar, enter "Downloader by AFTVnews"
+2. In the search bar, enter [**>> Downloader by AFTVnews <<**](https://play.google.com/store/apps/details?id=com.esaba.downloader)
 3. Press Install on "Downloader" and then open it after its installed.
 4. Now navigate to setting and enable "Auto-Install"
 5. Go back to FileSynced home Use my code ‘98767862’ which will be updated daily
-
-[**>> Downloader by AFTVnews <<**](https://play.google.com/store/apps/details?id=com.esaba.downloader) 
 
 #### How to install FileSynced on Phone or Tablet
 ##### [Browser Method]
@@ -50,10 +48,10 @@ So make sure you follow the correct steps!
 10. Open FileSynced App
 11. Use my code ‘98767862’ which will be updated daily
 
-
 ### Downloads: [Direct APKs]
 
-[**>> FileSynced v3.3.1 <<**](https://bit.ly/BingieTVApk)
-[**>> Downloader by AFTVnews <<**](https://play.google.com/store/apps/details?id=com.esaba.downloader)
+[**>> FileSynced v3.3.1 [APK] <<**](https://bit.ly/BingieTVApk)
+|
+[**>> Downloader by AFTVnews [GooglePlay]<<**](https://play.google.com/store/apps/details?id=com.esaba.downloader)
 
 NOTE: Remember to check back once in awhile to see if there has been any updates :)
