@@ -1,34 +1,76 @@
 ---
-title:  "BingieTV (Ad-free) (App)!"
+title:  "BingieTV v3.3.1 [Mod Extra] [Latest]"
 subtitle: "Android, Entertainment"
 author: "Skorpz"
 avatar: "img/authors/Skorpz.png"
 image: "img/Bingie.jpg"
-date:   2022-01-10 12:00:00
+date:   2022-06-08 12:00:00
 ---
 
-<div style="text-align: center"><img src="img/post/bingie/splash.png" width="250" height="250" /></div>
+<div style="text-align: center"><img src="img/post/bingie/BingieTV.png" width="250" height="250" /></div>
+
+Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
+
 ### What is BingieTV?
-<p>BingieTV is a Modded version of the BeeTV app, but with Unlocked Features!</p>
-### Information:
- BingieTV allow you to watch Movies and Tv Shows online for free, and it work on most Android devices, Amazon Fire Devices and Windows PC/Laptops. It is simply a modular search tool for content. which mean it crawls Movie/Tv Shows hosting websites and it can find and return the videos hosted on those sites, all using the Modules built by the amazing members of our community.
-<div style="text-align: center"><img src="img/post/bingie/Banner-BingieTV.png" width="350" height="250" /></div>
 
----
+BingieTV is an app allow you to watch movies and tv shows online for free. BingieTV work on Android phone, Android TV, Amazon Firestick, FireTV, etc.
 
-### Features/Mods:
+Login? No need.
+You don’t need to have an account when using BingieTV.
+
+Awesome interface.
+BingieTV has been built from the ground up with performance in mind for a fast and efficient experience to surfing your collection.
+
+Does it cost?
+BingieTV is working on your behalf and making entertainment free, at no cost to you.
+
+Simple and Elegant
+You can keep track of the movies you own, the movies you wish you had, the movies you saw and the movies you want to watch.
+
+FREE and 1080p HD TV Shows and movies
+Free Movies is the latest add-on with Movies and TV Shows in Full HD 1080p & HD 720p
+
+It provides almost any TV shows and movies.
+Many genre such as Drama, Crime, Comedy, Adventure, Family, Horror, Thriller, Romance, Western, Animation, Biography and more.
+
+All available on this site in full HD quality.
+You can also download the episodes in 480p, 720p and 1080p quality.
+
+If you are a true movies and TV shows enthusiast, then all you really need is BingieTV!
+
+### What’s New:
+- Add Good, Vidsrc link.
+- Fix bugs.
+
+### Features/Mod info:
+
 - Ads disabled / removed;
 - Disabled / Removed unwanted Permissions + Receivers + Providers + Services;
 - Optimized and zipaligned graphics and cleaned resources for fast load;
 - Ads Permissions / Services / Providers removed from Android.manifest;
 - Ads links removed and invokes methods nullified;
+- Ads layouts visibility disabled;
+- Debug code removed;
+- Remove default .source tags name of the corresponding java files;
 - Analytics / Crashlytics / Firebase disabled;
+- News promo banner announcement removed;
+- Promo Apps cleaned from menu;
 - Choose Player popup disabled;
+- Disabled choose subtitle dialog;
+- No forced update to new version;
+- Languages: Full Multi Languages;
 - CPUs: armeabi-v7a, x86;
 - Screen DPIs: 120dpi, 160dpi, 240dpi, 320dpi, 480dpi, 640dpi;
 - Original package signature changed.
 
----
+This app has no advertisements!
+
+### Screenshots:
+
+<div style="text-align: center"><img src="img/post/bingie/Bingie-Screenshot-1.png" width="250" height="350" /></div>
+
+<div style="text-align: center"><img src="img/post/bingie/Bingie-Screenshot-2.png" width="250" height="350" /></div>
+
 
 ## How to Guide:
 <p>Here is a step-by-step guide on how you can install the BingieTV app.
@@ -40,20 +82,24 @@ Since we are going to install a 3rd party application, this requires you activat
 For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 </p>
 
-#### Install BingieTV on Android TV Boxs & Android Smartphones [STEPS]
 
-- Download the BingieTV Apk file from [**>> Here <<**](https://github.com/TeamSkorpz/drumset/releases/download/2.1.2/BingieTV.apk).
-- Follow the on-screen instructions and within a few minutes, you will have the icon of BingieTV on the home screen of your Android device.
-- The app is now installed, you can now launch it from the homescreen.
-- You now can *Enjoy* your favourite Movies and TV shows for free.
+#### Install on Android TVs & Android Smartphones [Guide]
 
-#### Install BingieTV on Amazon Firesticks & Fire TVs [STEPS]
+1. Download the BingieTV Apk file from our AppStore [**>> Here <<**](https://github.com/TeamSkorpz/drumset/releases/download/2.1.2/BingieTV.apk) or [**>> Here <<**](https://github.com/TeamSkorpz/drumset/releases/download/2.1.2/BingieTV.apk) 
+2. Follow the on-screen instructions and within a few minutes, you will have the icon of BingieTV on the home screen of your Android device.
+3. The app is now installed, you can now launch it from the homescreen.
+4. You now can *Enjoy* your favourite Movies and TV shows for free.
 
-- Ask alexa to Install the (Downloader) app or click [**>> Here <<**](https://amzn.to/3oIIJhM) to open the Amazon website.
-- Once installed, Open the (Downloader) app and enter the code `>> 52937 <<` then press enter!
-- It will now download the latest version of BingieTV, then you want to install it.
-- So when it open's the file, press install and then press done.
-- The app is now installed, you can now launch it from the homescreen.
-- You now can *Enjoy* your favourite Movies and TV shows for free.
+#### Install on Amazon Firesticks & Fire TVs [Guide]
 
----
+1. Ask alexa to Install the (Downloader) app or click [**>> Here <<**](https://amzn.to/3oIIJhM) to open the Amazon website.
+2. Once installed, Open the (Downloader) app and enter the code `>> 52937 <<` then press enter!
+3. It will now download the latest version of BingieTV, then you want to install it.
+4. So when it open's the file, press install and then press done.
+5. The app is now installed, you can now launch it from the homescreen.
+6. You now can *Enjoy* your favourite Movies and TV shows for free.
+
+
+### Downloads:
+
+BingieTV v3.3.1 [Mod Extra] / Mirror
