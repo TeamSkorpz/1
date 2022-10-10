@@ -1,7 +1,7 @@
 ---
 title:  "BingieTV v3.3.1 [Mod Extra] [Latest]"
 subtitle: "Android, Entertainment"
-author: "Skorpz"
+author: "Mr Skorpz"
 avatar: "img/authors/Social-Avatar.png"
 image: "img/post/bingie/Bingie-modified.png"
 date:   2022-06-08 12:00:00
@@ -77,16 +77,18 @@ This app has no advertisements!
 >Since we are going to install a 3rd party application, this requires you activating the option ‘Unknown Sources’ before proceeding with the installation.
 >>For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 
+#### Install via our FileSynced Store! [Guide]
 
+1. Coming Soon!
 
-#### Install on Android TVs & Android Smartphones [Guide]
+#### Install on Android TVs & Android Smartphones! [Guide]
 
-1. Download the BingieTV Apk file from our AppStore or use the Direct APK
-2. Follow the on-screen instructions and within a few minutes, you will have the one of the icons of BingieTV or FileSynced on the home screen of your Android device.
-3. If you used the direct apk then the app is now installed, you can now launch it from the homescreen, look for the red B!
+1. Download the BingieTV Apk file from the bottom of the page.
+2. Follow the on-screen instructions and within a few minutes, you will have the either BingieTV installed on the apps screen of your device.
+3. The app is now installed, so you can now launch it from the Apps Screen, so look out for the red B!
 4. You now can *Enjoy* your favourite Movies and TV shows for free.
 
-#### Install on Amazon Firesticks & Fire TVs [Guide]
+#### Install on Amazon Firesticks & Fire TVs1 [Guide]
 
 1. Ask alexa to Install the (Downloader) app or click [**>> Here <<**](https://amzn.to/3oIIJhM) to open the Amazon website and install it.
 2. Once installed, Open the (Downloader) app and enter the code `>> 52937 <<` then press enter!
@@ -99,7 +101,5 @@ This app has no advertisements!
 ### Downloads:
 
 [**>> BingieTV v3.3.1 - Direct APK <<**](https://bit.ly/BingieTVApk)
-
-[**>> BingieTV v3.3.1 - via FileSynced <<**](https://bit.ly/3yskVCX)
 
 
