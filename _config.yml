@@ -1,7 +1,7 @@
 # Site settings
 title: TeamSkorpz
 description: Just a random guy from the UK, who has alot of freetime!
-keywords: Mr_Skorpz, TeamSkorpz, Skorpz, Streaming, Bingie, BingieTV
+keywords: Mr_Skorpz, TeamSkorpz, Skorpz
 author: Mr_Skorpz
 baseurl: "/teamskorpz.github.io" # the subpath of your site, e.g. /blog/
 url: "https://teamskorpz.github.io/" # the base hostname & protocol for your site
