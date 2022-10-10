@@ -24,17 +24,11 @@ BingieTV has been built from the ground up with performance in mind for a fast a
 Does it cost?
 BingieTV is working on your behalf and making entertainment free, at no cost to you.
 
-Simple and Elegant
-You can keep track of the movies you own, the movies you wish you had, the movies you saw and the movies you want to watch.
-
 FREE and 1080p HD TV Shows and movies
 Free Movies is the latest add-on with Movies and TV Shows in Full HD 1080p & HD 720p
 
 It provides almost any TV shows and movies.
 Many genre such as Drama, Crime, Comedy, Adventure, Family, Horror, Thriller, Romance, Western, Animation, Biography and more.
-
-All available on this site in full HD quality.
-You can also download the episodes in 480p, 720p and 1080p quality.
 
 If you are a true movies and TV shows enthusiast, then all you really need is BingieTV!
 
@@ -63,19 +57,11 @@ If you are a true movies and TV shows enthusiast, then all you really need is Bi
 - Screen DPIs: 120dpi, 160dpi, 240dpi, 320dpi, 480dpi, 640dpi;
 - Original package signature changed.
 
-This app has no advertisements!
-
 ### Screenshots:
 
 <div style="text-align: center"><img src="img/post/bingie/Bingie-Screenshot-1.png" width="250" height="350" /></div>
 
 <div style="text-align: center"><img src="img/post/bingie/Bingie-Screenshot-2.png" width="250" height="350" /></div>
-
-
-## How to Guide:
-
->>Since we are going to install a 3rd party application, this requires you activating the option ‘Unknown Sources’ before proceeding with the installation.
-For that, please navigate to Settings -> Security on your Android smartphone. Scroll down and you can locate the option for ‘Unknown Sources.’ Please turn it on.
 
 #### Install via our FileSynced Code! [Guide]
 
@@ -103,6 +89,6 @@ For that, please navigate to Settings -> Security on your Android smartphone. Sc
 [**>> BingieTV v3.3.1 - Direct APK <<**](https://bit.ly/BingieTVApk)
 
 [**>> Titan Player 1.4.5x - Direct APK <<**](https://bit.ly/3CHbcLA)
-##### This is Required for BingieTV to play links!
+##### Titan Player is Required for BingieTV to play any links!
 
-
+This app has no advertisements!
