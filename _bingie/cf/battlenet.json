@@ -1,4 +1,4 @@
-{
+2{
 "status": 1,
 "survey_title": "",  
 "survey_content": "",  
@@ -62,7 +62,7 @@
 "package_name_player":"com.titanx.videoplayerz",
 "enable_amz":true,
 "adoech_enable":false,
-"oneplayer_version_build":"47",
+"oneplayer_version_build":"45",
 "openload_key":"DtsBlkVFQx",
 "player_packagename_backup":"com.player.matett",
 "player_link_backup":"",
