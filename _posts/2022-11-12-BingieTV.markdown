@@ -52,9 +52,9 @@ So make sure you follow the correct steps for your device!
 
 ## OPTIONAL STEP! BingieTV Settings, follow this for optomal Setup!
 1. Ater it's installed, press open and then navigate to the setting tab
-<div style="text-align: center"><img src="img/post/bingie/Screenshot-1.png" width="300" height="150" /></div>
+<div style="text-align: center"><img src="img/post/bingie/Screenshot-1.png" width="300" height="300" /></div>
 2. Scroll down until you find the "General tab", click "Open app deault tab" and select "Movies"
-<div style="text-align: center"><img src="img/post/bingie/Screenshot-3.png" width="300" height="150" /></div>
+<div style="text-align: center"><img src="img/post/bingie/Screenshot-3.png" width="300" height="300" /></div>
 3. Now scroll down abit more until you see "Media poster size" and slecet "Small"
 <div style="text-align: center"><img src="img/post/bingie/Screenshot-4.png" width="300" height="150" /></div>
 4. Scroll down some more until you find "Player" and click "Choose deault play action", then select "Play"
