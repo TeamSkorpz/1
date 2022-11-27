@@ -24,6 +24,21 @@ BINGIETV – A Complete Beginners Guide to ree Movies & TV Shows 2021
 - Many genre such as Drama, Crime, Comedy, Adventure, Family, Horror, Thriller, Romance, Western, Animation, Biography and more.
 - If you are a true movies and TV shows enthusiast, then all you really need is BingieTV!
 
+#### Features/Mod info:
+
+- Ads disabled / removed;
+- Disabled / Removed unwanted Permissions + Receivers + Providers + Services;
+- Optimized and zipaligned graphics and cleaned resources for fast load;
+- Ads Permissions / Services / Providers removed from Android.manifest;
+- Ads links removed and invokes methods nullified;
+- Debug code removed;
+- Remove default .source tags name of the corresponding java files;
+- Analytics / Crashlytics / Firebase disabled;
+- Languages: Full Multi Languages;
+- CPUs: armeabi-v7a, x86;
+- Screen DPIs: 120dpi, 160dpi, 240dpi, 320dpi, 480dpi, 640dpi;
+- Original package signature changed.
+
 ### You can download the BingieTV APK from the links below.  {#install}
 There will be different methods of downloading the BingieTV APK.
 So make sure you follow the correct steps for your device!
