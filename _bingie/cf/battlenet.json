@@ -1,18 +1,18 @@
 {
 "status": 1,
-"survey_title": "BingieTV on Facebook",  
+"survey_title": "BingieTV on Facebook?",  
 "survey_content": "Visit our fanpage facebook to receive the latest news and customer support",  
 "survey_type": "Visit",  
 "survey_link": "https://www.facebook.com/beetvmovies/", 
 "left_menu_image":"https://i.imgur.com/StqZw1M.png",   
 "lite_mode":false,
-"content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
+"content_not_support_audio":"This movie has audio which is not supported by BingieTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
+"update_content":"Make sure you update!, Please don't come crying to me it don't work i you haven't updated your apps!.
 <br></br>
 <b>Release Info</b>
 <br>- Version: 3.3.5</br>
