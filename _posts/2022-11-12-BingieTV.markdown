@@ -1,15 +1,15 @@
 ---
-title:  "FileSynced v3.3 [Latest]"
+title:  "BingieTV v3.3.5 [Latest]"
 subtitle: "Android"
 author: "Mr Skorpz"
 avatar: "img/authors/Social-Avatar.png"
-image: "img/post/filesynced/FileSynced-Home.png"
+image: "img/post/bingie/Bingie-Home.png"
 date:   2022-10-10 12:00:00
 ---
 
-<div style="text-align: center"><img src="img/post/filesynced/FileSynced.png" width="250" height="250" /></div>
+<div style="text-align: center"><img src="img/post/bingie/BingieTV.png" width="250" height="250" /></div>
 
-FILESYNCED – A Complete Beginners Guide 2021
+BINGIETV – A Complete Beginners Guide 2021
 
 ### What is FileSynced? {#info}
 - FileSynced is a replacement to Filelinked. It offers an easy method of installing the latest apps that are not accessible on the Google Playstore or Amazon App store.
