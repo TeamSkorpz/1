@@ -25,7 +25,7 @@ BINGIETV – A Complete Beginners Guide to ree Movies & TV Shows 2021
 - If you are a true movies and TV shows enthusiast, then all you really need is BingieTV!
 
 ### You can download the BingieTV APK from the links below.  {#install}
-There will be different methods of downloading the FileSynced APK.
+There will be different methods of downloading the BingieTV APK.
 So make sure you follow the correct steps for your device!
 
 #### How to install BingieTV via a Browser + FileSynced ?
@@ -34,9 +34,15 @@ So make sure you follow the correct steps for your device!
 2. In the URL bar enter [**>> TeamSkorpz.co.uk <<**](https://teamskorpz.co.uk)
 3. Navigate to the __"BingieTV  Post"__ and navigate to the bottom of the page
 4. Download the __"Latest APK"__ and wait for the download to start, then continue to install BingieTV.
-5. __(Optional Step!)__ Once it's finished, click DELETE to remove BingieTV APK file
-6. Now open the BingieTV App and navigate to the setting tab
+6. Ater it's installed, press open and then navigate to the setting tab
 <div style="text-align: center"><img src="img/post/filesynced/Screenshot_1.jpg" width="300" height="150" /></div>
+7. Scroll down until you ind the "General tab", click "Open app deault tab" and select "Movies"
+<div style="text-align: center"><img src="img/post/filesynced/Screenshot_2.jpg" width="300" height="150" /></div>
+8. Now scroll down abit more until you see "Media poster size" and slecet small
+<div style="text-align: center"><img src="img/post/filesynced/Screenshot_3.jpg" width="300" height="150" /></div>
+9. Scroll down some more until you find "Player" and click "choose deault play action, then select "Play"
+<div style="text-align: center"><img src="img/post/filesynced/Screenshot_6.jpg" width="300" height="150" /></div>
+<div style="text-align: center"><img src="img/post/filesynced/Screenshot_7.jpg" width="300" height="150" /></div>
 7. Go back to the FileSynced homescreen and now use my code __‘98767862’__ which will be updated daily/weekly!
 
 #### How To Install BingieTV On Android TV Box?
