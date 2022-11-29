@@ -1,7 +1,7 @@
 {
 "status": 1,
-"survey_title": "BingieTV on Facebook?",  
-"survey_content": "Visit our fanpage facebook to receive the latest news and customer support",  
+"survey_title": "BingieTV F&Q?",  
+"survey_content": "Visit our fanpage to receive the latest news",  
 "survey_type": "Visit",  
 "survey_link": "https://www.facebook.com/beetvmovies/", 
 "left_menu_image":"https://i.imgur.com/StqZw1M.png",   
@@ -11,7 +11,7 @@
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
-"update_title":"Update new version",  
+"update_title":"Update to new version",  
 "update_content":"Make sure you update!, Please don't come crying to me it don't work i you haven't updated your apps!.
 <br></br>
 <b>Release Info</b>
@@ -21,7 +21,7 @@
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv shows.</br>
 <br>- Add links.</br>",  
-"update_build":"148",  
+"update_build":"145",  
 "update_version":"3.3.5",  
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Streaming/BingieTV-signed.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
@@ -37,12 +37,12 @@
 "tmdb_key":"de46e6f53a84b5f39c219d07ad20b698",
 "ads_priority":"amazon",
 "text_link":"https://hdstreamz.art/get?s=1",
-"text_content":"Fast and hight quality World Cup stream",
+"text_content":"Fast and high quality World Cup streams",
 "text_title":"World Cup Stream App",
 "text_type":"link",
 "text_id":"71446",
-"custom_fullads_photo":"https://i.imgur.com/FpMvTE0.png",
-"custom_fullads_link":"https://www.jdoqocy.com/click-100278415-14482593",
+"custom_fullads_photo":"",
+"custom_fullads_link":"",
 "custom_fullads_gif":false,
 "custom_fullads_enable":false,
 "enable_force_internal":false,
