@@ -1,7 +1,8 @@
 {
 "status": 1,
-"survey_title": "BingieTV Wishes You A Merry Xmas :)",  
-"survey_content": "May this Christmas fill your life with new hope, positivity, joy, and bliss. Merry Christmas and a Happy New Year to you and your dear ones!",  
+"survey_title": "BingieTV Wishes You A Merry Christmas :)",  
+"survey_content": "May this Christmas fill your life with new hope, positivity, joy and bliss. 
+  Merry Christmas and a Happy New Year to you and your dear ones!",  
 "survey_type": "",  
 "survey_link": "https://www.facebook.com/beetvmovies/", 
 "left_menu_image":"https://i.imgur.com/bkpH2Tc.gif",   
@@ -12,7 +13,7 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update to new version",  
-"update_content":"Make sure you update!, Please don't come crying to me it don't work i you haven't updated your apps!.
+"update_content":"Make sure you update!, Please don't come crying to me it don't work if you haven't updated your app!.
 <br></br>
 <b>Release Info</b>
 <br>- Version: 3.3.5</br>
@@ -21,8 +22,8 @@
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv shows.</br>
 <br>- Add links.</br>",  
-"update_build":"147",  
-"update_version":"3.3.7",  
+"update_build":"145",  
+"update_version":"3.3.5",  
 "update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Streaming/BingieTV-signed.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
@@ -41,15 +42,15 @@
 "text_title":"Free World Cup Sports App, Get it Now!",
 "text_type":"link",
 "text_id":"71446",
-"custom_fullads_photo":"https://i.imgur.com/FpMvTE0.png",
-"custom_fullads_link":"https://www.jdoqocy.com/click-100278415-14482593",
-"custom_fullads_gif":false,
-"custom_fullads_enable":false,
+"custom_fullads_photo":"https://i.imgur.com/1joQ6Le.gif",
+"custom_fullads_link":"",
+"custom_fullads_gif":true,
+"custom_fullads_enable":true,
 "enable_force_internal":false,
-"menu_text_tv":"Link our App, why not buy us a cookie :)",
+"menu_text_tv":"Link our App?, why not buy us a cookie :)",
 "menu_link_tv":"https://www.paypal.com/paypalme/skorpztvpro",
 "menu_link_phone":"https://www.paypal.com/paypalme/skorpztvpro",
-"menu_text_phone":"Link our App, why not buy us a cookie :)",
+"menu_text_phone":"Link our App?, why not buy us a cookie :)",
 "enable_cms":"0",
 "show_ads":"1",
 "downloader_package_name":"com.one.downloader",
