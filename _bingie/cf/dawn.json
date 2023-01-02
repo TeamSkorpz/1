@@ -6,29 +6,29 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(filmplus.app) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 1.6.0</br>
+<br>- Version: 1.6.4</br>
 <br>- Size: 17.1MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add Std link.</br>
 <br>- Add 5 link providers.</br>",  
-"update_build":"69",  
-"update_version":"1.6.0",  
+"update_build":"74",  
+"update_version":"1.6.4",  
 "update_link":"https://github.com/adminandroidonetech/alphabet/releases/download/1.6.0/1.6.0.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/hfyir7a7dgyyfiy/1.2.4f.apk",
 "pkg_uninstall":"", 
 "pkg_uninstall_content":"Please uninstall old version",
 "enable_install_player":true,
 "title_player":"Polygon Video Player";
-"description_player":"Best player to work with Filmplus. Less ads and better streaming!",
-"link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.2.0r/1.2.0r.apk",
+"description_player":"The Best player to work with BingieTV  V2!",
+"link_download_player":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Players/BPlayer_AF_1.2.0_MultiPatch_Arm7_CustomFinaluserupload.in.apk",
 "package_name_player":"com.polygon.videoplayer",
 "oneplayer_version_build":"23",
 "pkg_player_new":"com.ae.video.bplayer",
-"name_player_new":"BPlayer",
-"des_player_new":"Please install Bplayer to watch",
+"name_player_new":"BPlayer By Skorpz!",
+"des_player_new":"Please install BPlayer to Continue, don't worry this player is Ad-Free :)",
 "player_new_build":"18",
-"player_new_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.1.7b/1.1.7b.apk",
+"player_new_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Players/BPlayer_AF_1.2.0_MultiPatch_Arm7_CustomFinaluserupload.in.apk",
 "force_playernew_direct_link":false,
 "enable_force_player":true,
 "tmdb_key":"de46e6f53a84b5f39c219d07ad20b698",
