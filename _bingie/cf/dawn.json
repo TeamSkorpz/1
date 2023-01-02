@@ -29,7 +29,7 @@
 "des_player_new":"Please install BPlayer to Continue, don't worry this player is Ad-Free :)",
 "player_new_build":"18",
 "player_new_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Players/BPlayer_AF_1.2.0_MultiPatch_Arm7_CustomFinaluserupload.in.apk",
-"force_playernew_direct_link":false,
+"force_playernew_direct_link":true,
 "enable_force_player":true,
 "tmdb_key":"de46e6f53a84b5f39c219d07ad20b698",
 "iron_enable":true,
