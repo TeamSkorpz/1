@@ -1,9 +1,9 @@
 {
 "status": 1,
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage(filmplus.app) to support developer.
+"update_content":"Remember to update your app, otherwise it might stop working!
 <br></br>
 <b>Release Info</b>
 <br>- Version: 1.6.7</br>
@@ -25,8 +25,8 @@
 "package_name_player":"com.polygon.videoplayer",
 "oneplayer_version_build":"23",
 "pkg_player_new":"com.ae.video.bplayer",
-"name_player_new":"BPlayer",
-"des_player_new":"Please install Video Player to watch",
+"name_player_new":"BPlayer by Skorpz",
+"des_player_new":"Please install This Video Player to watch :)",
 "player_new_build":"23",
 "player_new_link":"https://github.com/bloodhornaaa/adc/releases/download/1.2.2/1.2.2bp.apk",
 "force_playernew_direct_link":false,
