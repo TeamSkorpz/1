@@ -27,7 +27,7 @@
 "pkg_player_new":"com.nx.video.player",
 "name_player_new":"HB Player",
 "des_player_new":"Please install Video Player to watch",
-"player_new_build":"22",
+"player_new_build":"08",
 "player_new_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Streaming/HB-Video-Player.apk",
 "force_playernew_direct_link":false,
 "enable_force_player":true,
