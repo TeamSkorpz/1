@@ -3,7 +3,7 @@ title:  "BingieTV v3.3.5 [Latest]"
 subtitle: "Android"
 author: "Mr Skorpz"
 avatar: "img/authors/Social-Avatar.png"
-image: "img/post/bingie/Bingie-Home.png"
+image: "img/a.png"
 date:   2022-10-10 12:00:00
 ---
 
