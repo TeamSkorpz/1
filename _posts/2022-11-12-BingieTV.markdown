@@ -3,7 +3,7 @@ title:  "Amazon Guide for Sideloading."
 subtitle: "Amazon"
 author: "Skorpz"
 avatar: "img/authors/Social-Avatar.png"
-image: "img/a.jpg"
+image: "img/a.jpeg"
 date:   2022-10-10 12:00:00
 ---
 
