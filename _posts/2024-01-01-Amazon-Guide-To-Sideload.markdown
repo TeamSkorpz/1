@@ -11,7 +11,7 @@ date:   2024-01-01 12:00:00
 
 Sideloading on an Amazon Fire Device – A Complete Beginner's Guide to Jailbreaking Your Amazon Fire Device
 
-## Introduction: {#info} 
+## Introduction:
 Welcome to our blog, where we'll guide you through the exciting world of sideloading on your Amazon Fire device. By the end of this comprehensive guide, you'll have the skills to jailbreak your Amazon Fire device, opening up a plethora of possibilities beyond the official app store.
 
 #### Section 1: Understanding Sideloading
@@ -25,7 +25,7 @@ Before diving into sideloading, ensure you've backed up your device and checked 
    ii. Select 'Back Up Now' to safeguard your data.
 
    2. Check Compatibility
-     ii. Confirm that your Amazon Fire device is compatible with sideloading.
+     i. Confirm that your Amazon Fire device is compatible with sideloading.
 
 #### Section 3: Enabling Developer Options
 To unlock advanced settings, enable Developer Options on your device.
