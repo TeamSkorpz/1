@@ -23,10 +23,10 @@ Before diving into sideloading, ensure you've backed up your device and checked 
 > 1. Backup Your Device
 >   1. Navigate to Settings > Device Options > Backup & Restore.
 >   1. Select 'Back Up Now' to safeguard your data.
-> 2. Check Compatibility
->   2. Navigate to Settings > Device Options > Backup & Restore.
-> 3. Check Compatibility
->   3. Confirm that your Amazon Fire device is compatible with sideloading.
+> 1. Check Compatibility
+>   1. Navigate to Settings > Device Options > Backup & Restore.
+> 1. Check Compatibility
+>   1. Confirm that your Amazon Fire device is compatible with sideloading.
 
 #### Section 2: Enabling Developer Options.
 To unlock advanced settings, enable Developer Options on your device.
