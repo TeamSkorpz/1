@@ -20,7 +20,7 @@ Sideloading involves installing apps from sources other than the official app st
 #### Section 1: Preparing Your Amazon Fire Device.
 Before diving into sideloading, ensure you've backed up your device and checked for compatibility. Follow these steps to set the stage for a successful jailbreaking experience.
 
-## Backup Your Device:
+#### Backup Your Device:
 >   1. Navigate to Settings > Device Options > Backup & Restore.
 >   2. Select 'Back Up Now' to safeguard your data.
 
