@@ -20,11 +20,9 @@ Sideloading involves installing apps from sources other than the official app st
 #### Section 1: Preparing Your Amazon Fire Device.
 Before diving into sideloading, ensure you've backed up your device and checked for compatibility. Follow these steps to set the stage for a successful jailbreaking experience.
 
-> 1. Backup Your Device
+## Backup Your Device:
 >   1. Navigate to Settings > Device Options > Backup & Restore.
->   1. Select 'Back Up Now' to safeguard your data.
->1. Check Compatibility
->   1. Confirm that your Amazon Fire device is compatible with sideloading.
+>   2. Select 'Back Up Now' to safeguard your data.
 
 #### Section 2: Enabling Developer Options.
 To unlock advanced settings, enable Developer Options on your device.
@@ -38,6 +36,8 @@ Download a reliable file manager app from the official Amazon Appstore to naviga
 
 >   1. Open the Appstore on your Amazon Fire device.
 >   2. Search for and install a file manager app (e.g., ES File Explorer).
+
+---
 
 ## Downloading APK Files with Downloader:
 Explore trusted sources for downloading APK files using the Downloader tool. Remember to exercise caution and download from reputable websites.
