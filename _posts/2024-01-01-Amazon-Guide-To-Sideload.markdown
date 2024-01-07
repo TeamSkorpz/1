@@ -30,26 +30,26 @@ Before diving into sideloading, ensure you've backed up your device and checked 
 ## Section 3: Enabling Developer Options
 To unlock advanced settings, enable Developer Options on your device.
 
-   a. Go to Settings > Device Options > About Fire Tablet.
-   b. Tap on 'Serial Number' multiple times until Developer Options are unlocked.
-   c. Enable 'ADB debugging' and 'Apps from Unknown Sources' under Developer Options.
+>   1. Go to Settings > Device Options > About Fire Tablet.
+>   2. Tap on 'Serial Number' multiple times until Developer Options are unlocked.
+>   3. Enable 'ADB debugging' and 'Apps from Unknown Sources' under Developer Options.
 
 ## Section 4: Installing a File Manager App
 Download a reliable file manager app from the official Amazon Appstore to navigate files efficiently.
 
-   a. Open the Appstore on your Amazon Fire device.
-   b. Search for and install a file manager app (e.g., ES File Explorer).
+>   1. Open the Appstore on your Amazon Fire device.
+>   2. Search for and install a file manager app (e.g., ES File Explorer).
 
 ### Downloading APK Files with Downloader.
 Explore trusted sources for downloading APK files using the Downloader tool. Remember to exercise caution and download from reputable websites.
 
 ## Section 61: Install the Downloader App.
-a. Open the Amazon Appstore on your Fire device.
-Search for "Downloader" using the search bar.
-Locate the Downloader app in the search results and click "Download" to install it.
-b. Open the Downloader app on your Amazon Fire device.
-c. Navigate to the desired APK file's download link using the built-in browser.
-d. Download the APK file by clicking on the download link.
+> 1. Open the Amazon Appstore on your Fire device.
+> Search for "Downloader" using the search bar.
+> Locate the Downloader app in the search results and click "Download" to install it.
+> 2. Open the Downloader app on your Amazon Fire device.
+> 3. Navigate to the desired APK file's download link using the built-in browser.
+> 4. Download the APK file by clicking on the download link.
 
 ## Section 2: Sideloading Apps with Downloader
 Now, let's get hands-on with the sideloading process using the Downloader tool.
