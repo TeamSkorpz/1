@@ -3,13 +3,13 @@ title:  "Amazon Guide for Sideloading."
 subtitle: "Amazon"
 author: "Skorpz"
 avatar: "img/authors/Social-Avatar.png"
-image: "img/a.jpeg"
+image: "img/blog-post/amazon/a.jpg"
 date:   2024-01-01 12:00:00
 ---
 
 <div style="text-align: center"><img src="img/blog-post/amazon/a.jpg" width="250" height="250" /></div>
 
-Sideloading on an Amazon Fire Device – A Complete Beginner's Guide to Jailbreaking Your Amazon Fire Device
+Sideloading on an Amazon Fire Device – A Complete Beginner's Guide to Jailbreaking.
 
 ## Introduction:
 Welcome to our blog, where we'll guide you through the exciting world of sideloading on your Amazon Fire device. By the end of this comprehensive guide, you'll have the skills to jailbreak your Amazon Fire device, opening up a plethora of possibilities beyond the official app store.
