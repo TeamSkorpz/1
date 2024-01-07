@@ -11,10 +11,10 @@ date:   2024-01-01 12:00:00
 
 ## **Sideloading on an Amazon Fire Device – A  Beginner's Guide.**
 
-## **Introduction:**
+### **Introduction:**
 Welcome to our blog, where we'll guide you through the exciting world of sideloading on your Amazon Fire device. By the end of this comprehensive guide, you'll have the skills to jailbreak your Amazon Fire device, opening up a plethora of possibilities beyond the official app store.
 
-### **Understanding Sideloading.**
+**Understanding Sideloading.**
 Sideloading involves installing apps from sources other than the official app store. This process grants you access to a broader range of apps, customization options, and the full potential of your Amazon Fire device.
 
 ##### Section 1: Preparing Your Amazon Fire Device.
