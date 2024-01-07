@@ -11,7 +11,7 @@ date:   2024-01-01 12:00:00
 
 ## **Sideloading on an Amazon Fire Device – A  Beginner's Guide.**
 
-### **Introduction:**
+## **Introduction:**
 Welcome to our blog, where we'll guide you through the exciting world of sideloading on your Amazon Fire device. By the end of this comprehensive guide, you'll have the skills to jailbreak your Amazon Fire device, opening up a plethora of possibilities beyond the official app store.
 
 ### **Understanding Sideloading.**
@@ -31,14 +31,7 @@ To unlock advanced settings, enable Developer Options on your device.
 >   2. Tap on **"Serial Number"** multiple times until Developer Options are unlocked.
 >   3. Enable **"ADB debugging"** and **"Apps from Unknown Sources"** under Developer Options.
 
-<a href="/img/blog-post/amazon/developer-options.gif">
-    <div style="text-align: center">
-    <img 
-        src="/img/blog-post/amazon/developer-options.gif" width="200" height="250"
-        alt="Gudie to Sideload your Amazon Fire Device."
-    >
-</a>
-
+<div style="text-align: center"><img src="img/blog-post/amazon/developer-options.gif" width="150" height="250" /></div>
 ---
 
 ### Downloading APK Files with Downloader:
