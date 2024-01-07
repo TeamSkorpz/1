@@ -7,7 +7,7 @@ image: "img/blog-post/amazon/thumbnail.jpg"
 date:   2024-01-01 12:00:00
 ---
 
-<div style="text-align: center"><img src="img/blog-post/amazon/post-img.jpg" width="250" height="250" /></div>
+<div style="text-align: center"><img src="img/blog-post/amazon/post-img.png" width="250" height="250" /></div>
 
 ## **Sideloading on an Amazon Fire Device – A  Beginner's Guide.**
 
@@ -32,8 +32,9 @@ To unlock advanced settings, enable Developer Options on your device.
 >   3. Enable **"ADB debugging"** and **"Apps from Unknown Sources"** under Developer Options.
 
 <a href="/img/blog-post/amazon/developer-options.gif">
+    <div style="text-align: center">
     <img 
-        src="/img/blog-post/amazon/developer-options.gif" width="150" height="250"
+        src="/img/blog-post/amazon/developer-options.gif" width="200" height="250"
         alt="Gudie to Sideload your Amazon Fire Device."
     >
 </a>
