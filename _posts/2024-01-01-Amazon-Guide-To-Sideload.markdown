@@ -31,7 +31,6 @@ To unlock advanced settings, enable Developer Options on your device.
 >   2. Tap on **"Serial Number"** multiple times until Developer Options are unlocked.
 >   3. Enable **"ADB debugging"** and **"Apps from Unknown Sources"** under Developer Options.
 
-<div style="text-align: center"><img src="img/blog-post/amazon/developer-options.gif" width="150" height="250" /></div>
 ---
 
 ### Downloading APK Files with Downloader:
