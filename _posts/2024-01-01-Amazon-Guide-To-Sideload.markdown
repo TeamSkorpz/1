@@ -33,7 +33,7 @@ To unlock advanced settings, enable Developer Options on your device.
 
 <a href="/img/blog-post/amazon/developer-options.gif">
     <img 
-        src="/img/blog-post/amazon/developer-options.gif" 
+        src="/img/blog-post/amazon/developer-options.gif" width="150" height="250"
         alt="Gudie to Sideload your Amazon Fire Device."
     >
 </a>
