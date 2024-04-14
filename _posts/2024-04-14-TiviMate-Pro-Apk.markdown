@@ -32,7 +32,7 @@ Since the TiviMate IPTV Player app doesn’t have native support for Firestick, 
 6. Choose "Developer Options" and enable "Install Unknown Apps."
 7. Enable the Downloader app.
 8. Press Home and open the Downloader app.
-9. Enter the code: ------ (Code Coming Soon!)
+9. Enter the code: **499557**
 10. Click "Go" to download the APK file.
 11. Open the downloaded file and select "Install" to install the app.
 12. Congratulations! You've successfully sideloaded the TiviMate App on your Amazon Firestick.
