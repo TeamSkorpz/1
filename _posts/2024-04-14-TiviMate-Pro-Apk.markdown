@@ -1,5 +1,5 @@
 ---
-title:  "How to Install TiviMate Pro on your Amazon Deivce."
+title:  "How to Install TiviMate on Firestick."
 subtitle: "Amazon"
 author: "Skorpz"
 avatar: "img/authors/Social-Avatar.png"
