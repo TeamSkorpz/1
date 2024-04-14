@@ -1,7 +1,7 @@
 ---
 title:  "How to Install TiviMate on Firestick."
 subtitle: "Amazon"
-author: "Skorpz"
+author: "Mr. Skorpz"
 avatar: "img/authors/Social-Avatar.png"
 image: "img/blog-post/tivimate/thumbnail.jpg"
 date:   2024-04-14 12:00:00
