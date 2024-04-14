@@ -3,19 +3,19 @@ title:  "A Complete Beginner's Guide to Jailbreaking your Amazon Deivce."
 subtitle: "Amazon"
 author: "Skorpz"
 avatar: "img/authors/Social-Avatar.png"
-image: "img/blog-post/amazon/thumbnail.jpg"
-date:   2024-01-01 12:00:00
+image: "img/blog-post/amazon/TiviMate.jpg"
+date:   2024-04-14 12:00:00
 ---
 
 <div style="text-align: center"><img src="img/blog-post/amazon/post-img.png" width="250" height="250" /></div>
 
-**Sideloading on an Amazon Fire Device – A  Beginner's Guide.**
+**Sideloading on the Amazon Fire Device – A Beginner’s Guide.**
 
 ### **Introduction:**
-Welcome to our blog, where we'll guide you through the exciting world of sideloading on your Amazon Fire device. By the end of this comprehensive guide, you'll have the skills to jailbreak your Amazon Fire device, opening up a plethora of possibilities beyond the official app store.
+Welcome to our blog, where we'll guide you through the exciting world of sideloading the tivimate Pro Apk on to your Amazon Fire device. By the end of this comprehensive guide, you'll have Installed the TiviMate Pro Apk.
 
 ### **Understanding Sideloading.**
-Sideloading involves installing apps from sources other than the official app store. This process grants you access to a broader range of apps, customization options, and the full potential of your Amazon Fire device.
+Sideloading involves installing apps from sources other than the Official Amazon App Store. This process grants you access to a broader range of apps, customization options, and the full potential of your Amazon Fire device.
 
 ##### Preparing Your Amazon Fire Device.
 Before diving into sideloading, ensure you've backed up your device and checked for compatibility. Follow these steps to set the stage for a successful jailbreaking experience.
@@ -29,7 +29,8 @@ To unlock advanced settings, enable Developer Options on your device.
 
 >   1. Go to Settings > Device Options > About Fire Tablet.
 >   2. Tap on **"Serial Number"** multiple times until Developer Options are unlocked.
->   3. Enable **"ADB debugging"** and **"Apps from Unknown Sources"** under Developer Options.
+>   3. Enable **"ADB debugging"** 
+>   4. Make sure to enable the **"Apps from Unknown Sources"** under Developer Options for the app your trying to sideload from.
 
 ---
 
