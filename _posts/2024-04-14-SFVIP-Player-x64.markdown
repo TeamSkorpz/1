@@ -7,7 +7,7 @@ image: "img/blog-post/sfvip/thumbnail.jpg"
 date:   2024-04-14 12:00:00
 ---
 
-<div style="text-align: center"><img src="img/blog-post/sfvip/post-img.jpeg" width="250" height="250" /></div>
+<div style="text-align: center"><img src="img/blog-post/sfvip/post-img.jpg" width="250" height="250" /></div>
 
 **Installing SFVIP Player on Windows – A Beginner’s Guide.**
 
