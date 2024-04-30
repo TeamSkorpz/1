@@ -9,7 +9,7 @@ date:   2024-04-14 12:00:00
 
 <div style="text-align: center"><img src="img/blog-post/sfvip/post-img.png" width="250" height="250" /></div>
 
-**Sideloading SFVIP on Windows – A Beginner’s Guide.**
+**Installing SFVIP Player on Windows – A Beginner’s Guide.**
 
 ### **Introduction:**
 Welcome to our blog, where we'll guide you through the exciting world of IPTV on any windows device. By the end of this comprehensive guide, you'll have Installed the SFVIP Player App.
@@ -24,18 +24,12 @@ It is uncertain to determine whether IPTV is legal or not, including SFVIP Playe
 Since the SFVIP Player app is a pain to get your hands on, we have provided a custom Github Url for ease. all you need to do is click the link to downlaod.
 
 - Steps to Follow:
-1. Go to the The Github repo .
-2. Search for "Downloader."
-3. Download and install the Downloader app.
-4. Press the Home button on your Firestick remote.
-5. Select the Settings icon, then click on "My Fire TV."
-6. Choose "Developer Options" and enable "Install Unknown Apps."
-7. Enable the Downloader app.
-8. Press Home and open the Downloader app.
-9. Enter the code: **499557**
-10. Click "Go" to download the APK file.
-11. Open the downloaded file and select "Install" to install the app.
-12. Congratulations! You've successfully sideloaded the TiviMate App on your Amazon Firestick.
+1. Go to the The Github repo 
+   **https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/SFVIP/SFVIP-Player-x64.zip**
+2. Extract anywhere to desktop"
+3. Open Folder **SFVIP-Player-x64** and right click **sfvip player.exe**
+4. Press **"Pin to Start"** & **"Pin to Taskbar"**.
+5. Now you can launch the app from them 2 Shortcuts.
 
 **--- setup.gif - Coming Soon! ---**
 
@@ -43,12 +37,10 @@ Since the SFVIP Player app is a pain to get your hands on, we have provided a cu
 After installing the TiviMate Pro Player on your Amazon device, you can integrate any IPTV playlist and watch content by following the upcoming steps.
 
 - Steps to Follow:
-1. Open TiviMate Player app.
-2. Tap "Add playlist."
-3. Select "Xtream Codes login."
-4. Enter your Username, Password, and Playlist URL.
-5. Tap "Save Channels and VOD Upload."
-6. Once the playlist loads, tap "Done."
-7. Congratulations! Your TiviMate Pro Player is now set up to stream your favorite content.
+1. Open the **SFVIP Player** App.
+2. Tap the 3 dots in the top left & click the **Add User** icon, Select **User/Pass**.
+5. Enter the information provided by your ISP, then click on **"Yes"**.
+6. After you have added your Playlist/Account, Please select it and let it load!.
+7. Now you can navigate the app via the menu on the right, Enjoy.
 
 **--- playlist.gif - Coming Soon! ---**
