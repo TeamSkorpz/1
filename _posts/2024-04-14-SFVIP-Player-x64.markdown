@@ -26,9 +26,10 @@ Since the SFVIP Player app is a pain to get your hands on, we have provided a cu
 - Steps to Follow:
 1. Download the The Repo via Github - [**CLICK HERE**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/SFVIP/SFVIP-Player-x64.zip)
 2. Extract anywhere to desktop"
-3. Open Folder **"SFVIP-Player-x64"** and right click **"sfvip player.exe"**
-4. Press **"Pin to Start"** & **"Pin to Taskbar"**.
-5. Now you can launch the app from them 2 Shortcuts.
+3. Open the Folder **"SFVIP-Player-x64"**.
+4. Now right click **"sfvip player.exe"** icon.
+5. Press **"Pin to Start"** & **"Pin to Taskbar"**.
+6. Now you can launch the app from them 2 Shortcuts.
 
 **--- setup.gif - Coming Soon! ---**
 
