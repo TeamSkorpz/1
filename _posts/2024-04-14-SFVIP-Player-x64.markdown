@@ -24,10 +24,9 @@ It is uncertain to determine whether IPTV is legal or not, including SFVIP Playe
 Since the SFVIP Player app is a pain to get your hands on, we have provided a custom Github Url for ease. all you need to do is click the link to downlaod.
 
 - Steps to Follow:
-1. Go to the The Github repo 
-   **https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/SFVIP/SFVIP-Player-x64.zip**
+1. Download the The Repo via Github - [*SFVIP REPO*](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/SFVIP/SFVIP-Player-x64.zip)
 2. Extract anywhere to desktop"
-3. Open Folder **SFVIP-Player-x64** and right click **sfvip player.exe**
+3. Open Folder **"SFVIP-Player-x64"** and right click **"sfvip player.exe"**
 4. Press **"Pin to Start"** & **"Pin to Taskbar"**.
 5. Now you can launch the app from them 2 Shortcuts.
 
@@ -37,10 +36,10 @@ Since the SFVIP Player app is a pain to get your hands on, we have provided a cu
 After installing the TiviMate Pro Player on your Amazon device, you can integrate any IPTV playlist and watch content by following the upcoming steps.
 
 - Steps to Follow:
-1. Open the **SFVIP Player** App.
-2. Tap the 3 dots in the top left & click the **Add User** icon, Select **User/Pass**.
-5. Enter the information provided by your ISP, then click on **"Yes"**.
-6. After you have added your Playlist/Account, Please select it and let it load!.
+1. Open the **"SFVIP Player"** App.
+2. Tap the 3 dots in the top left & click the **"Add User"** icon, Select **"User/Pass"**.
+5. Enter the information provided by your **"ISP"**, then click on **"Yes"**.
+6. After you have added your **"Playlist/"**Account**", Please select it and let it load!.
 7. Now you can navigate the app via the menu on the right, Enjoy.
 
 **--- playlist.gif - Coming Soon! ---**
