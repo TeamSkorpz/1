@@ -7,12 +7,12 @@ image: "img/blog-post/sfvip/thumbnail.jpg"
 date:   2024-04-14 12:00:00
 ---
 
-<div style="text-align: center"><img src="img/blog-post/sfvip/post-img.png" width="250" height="250" /></div>
+<div style="text-align: center"><img src="img/blog-post/sfvip/post-img.jpeg" width="250" height="250" /></div>
 
 **Installing SFVIP Player on Windows – A Beginner’s Guide.**
 
 ### **Introduction:**
-Welcome to our blog, where we'll guide you through the exciting world of IPTV on any windows device. By the end of this comprehensive guide, you'll have Installed the SFVIP Player App.
+Welcome to our blog, where we'll guide you through the exciting world of IPTV on any windows device. By the end of this comprehensive guide, you'll have Installed the SFVIP Player App on your windows device.
 
 ##### **Why Choose SFVIP Player?.**
 SFVIP Player features a user interface tailored for large screens. It accommodates multiple playlists and includes scheduled TV guide updates. Additionally, users can catch up on missed TV shows and movies. TiviMate provides access to various entertainment content, including shows from Amazon Prime Video, Apple TV+, Disney+, Netflix, NowTV, BritBox, DAZN, Hayu and much more, Providing you have a xCode Login or Playlist M3U.
@@ -24,7 +24,7 @@ It is uncertain to determine whether IPTV is legal or not, including SFVIP Playe
 Since the SFVIP Player app is a pain to get your hands on, we have provided a custom Github Url for ease. all you need to do is click the link to downlaod.
 
 - Steps to Follow:
-1. Download the The Repo via Github
+1. Download the The Zip via Github
    [**"CLICK HERE"**](https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/SFVIP/SFVIP-Player-x64.zip)
 2. Extract anywhere to desktop"
 3. Open the Folder **"SFVIP-Player-x64"**.
@@ -34,14 +34,14 @@ Since the SFVIP Player app is a pain to get your hands on, we have provided a cu
 
 **--- setup.gif - Coming Soon! ---**
 
-#### How to setup TiviMate Player to Stream your IPTV.
-After installing the TiviMate Pro Player on your Amazon device, you can integrate any IPTV playlist and watch content by following the upcoming steps.
+#### How to setup SFVIP Player to Stream your IPTV.
+After installing the SFVIP Player on your Windows Device, you can integrate any IPTV playlist and watch content by following the upcoming steps.
 
 - Steps to Follow:
 1. Open the **"SFVIP Player"** App.
-2. Tap the 3 dots in the top left & click the **"Add User"** icon, Select **"User/Pass"**.
+2. Tap the 3 dots in the top left & click the **"Add User"** icon, then select **"User/Pass"**.
 5. Enter the information provided by your **"ISP"**, then click on **"Yes"**.
-6. After you have added your **"Playlist/"**Account**", Please select it and let it load!.
+6. After you have added your **"Playlist/Account**", Please select it and let it load!.
 7. Now you can navigate the app via the menu on the right, Enjoy.
 
 **--- playlist.gif - Coming Soon! ---**
