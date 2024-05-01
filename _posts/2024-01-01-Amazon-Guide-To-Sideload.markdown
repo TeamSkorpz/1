@@ -10,7 +10,7 @@ date:   2024-04-14 12:00:00
 <div style="text-align: center"><img src="img/blog-post/amazon/post-img.png" width="250" height="250" /></div>
 
 **Sideloading on the Amazon Fire Device – A Beginner’s Guide.**
----
+
 ### **Introduction:**
 Welcome to our blog, where we'll guide you through the exciting world of sideloading the tivimate Pro Apk on to your Amazon Fire device. By the end of this comprehensive guide, you'll have Installed the TiviMate Pro Apk.
 
@@ -19,11 +19,11 @@ Sideloading involves installing apps from sources other than the Official Amazon
 
 ##### Preparing Your Amazon Fire Device.
 Before diving into sideloading, ensure you've backed up your device and checked for compatibility. Follow these steps to set the stage for a successful jailbreaking experience.
----
+
 ##### Section 1: Backup Your Device:
 >   1. Navigate to Settings > Device Options > Backup & Restore.
 >   2. Select **"Back Up Now"** to safeguard your data.
----
+
 ##### Section 2: Enabling Developer Options.
 To unlock advanced settings, enable Developer Options on your device.
 
@@ -38,7 +38,7 @@ To unlock advanced settings, enable Developer Options on your device.
 
 ### Downloading APK Files with Downloader:
 Explore trusted sources for downloading APK files using the Downloader tool. Remember to exercise caution and download from reputable websites.
----
+
 ##### Section 1: Install the Downloader App.
 > 1. Open the Amazon Appstore on your Fire device.
 > Search for **"Downloader"** using the search bar.
@@ -49,8 +49,8 @@ Explore trusted sources for downloading APK files using the Downloader tool. Rem
 <div style="text-align: center"><img src="img/blog-post/amazon/install-setup.gif" width="300" height="225" /></div>
 ---
 
+#### Now, let's get hands-on with the sideloading process using the Downloader tool.
 ##### Section 2: Sideloading Apps with Downloader.
-Now, let's get hands-on with the sideloading process using the Downloader tool.
 > 1. Open the Downloader app.
 > 2. In the app, navigate to the search-bar.
 > 3. Click on the search-bar and then the code you was provided to initiate the download process.
