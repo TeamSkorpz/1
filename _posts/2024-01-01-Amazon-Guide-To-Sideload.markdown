@@ -1,5 +1,5 @@
 ---
-title:  "A Complete Beginner's Guide to Jailbreaking your Amazon Deivce."
+title:  "A Beginner's Guide to Jailbreaking your Amazon Deivce."
 subtitle: "Amazon"
 author: "Skorpz"
 avatar: "img/authors/Social-Avatar.png"
@@ -32,6 +32,7 @@ To unlock advanced settings, enable Developer Options on your device.
 >   3. Enable **"ADB debugging"** 
 >   4. Make sure to enable the **"Apps from Unknown Sources"** under Developer Options for the app your trying to sideload from.
 
+<div style="text-align: center"><img src="img/blog-post/amazon/dev-setup.gif" width="350" height="250" /></div>
 ---
 
 ### Downloading APK Files with Downloader:
