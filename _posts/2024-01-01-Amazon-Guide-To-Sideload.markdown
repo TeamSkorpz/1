@@ -27,11 +27,12 @@ Before diving into sideloading, ensure you've backed up your device and checked 
 ##### Section 2: Enabling Developer Options.
 To unlock advanced settings, enable Developer Options on your device.
 
->   1. Go to Settings > Device Options > About Fire Tablet.
->   2. Tap on **"Serial Number"** multiple times until Developer Options are unlocked.
+>   1. Go to **"Settings"** > **"My Fire TV"** > **"About"**.
+>   2. Tap **"Fire TV STICK"** multiple times until Developer Options are unlocked.
 >   3. Enable **"ADB debugging"** 
 >   4. Make sure to enable the **"Apps from Unknown Sources"** under Developer Options for the app your trying to sideload from.
 
+---
 <div style="text-align: center"><img src="img/blog-post/amazon/dev-setup.gif" width="300" height="225" /></div>
 ---
 
@@ -44,6 +45,10 @@ Explore trusted sources for downloading APK files using the Downloader tool. Rem
 > Locate the Downloader app in the search results and click **"Download"** to install it.
 > 2. The Downloader app is now installed on your Amazon Fire device.
 
+---
+<div style="text-align: center"><img src="img/blog-post/amazon/install-setup.gif" width="300" height="225" /></div>
+---
+
 #### Now, let's get hands-on with the sideloading process using the Downloader tool.
 ##### Section 2: Sideloading Apps with Downloader.
 > 1. Open the Downloader app.
@@ -53,6 +58,10 @@ Explore trusted sources for downloading APK files using the Downloader tool. Rem
 > 5. Follow the on-screen instructions to complete the installation.
 
 **Note:** If prompted, ensure **'Apps from Unknown Sources'** is still enabled in Developer Options.
+
+---
+<div style="text-align: center"><img src="img/blog-post/amazon/sideload-setup.gif" width="300" height="225" /></div>
+---
 
 ##### Section 3: Security Considerations.
 As you explore sideloading with the Downloader tool, be mindful of security.
