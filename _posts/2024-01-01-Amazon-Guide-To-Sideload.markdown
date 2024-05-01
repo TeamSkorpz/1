@@ -44,9 +44,8 @@ Explore trusted sources for downloading APK files using the Downloader tool. Rem
 > Locate the Downloader app in the search results and click **"Download"** to install it.
 > 2. The Downloader app is now installed on your Amazon Fire device.
 
+#### Now, let's get hands-on with the sideloading process using the Downloader tool.
 ##### Section 2: Sideloading Apps with Downloader.
-Now, let's get hands-on with the sideloading process using the Downloader tool.
-
 > 1. Open the Downloader app.
 > 2. In the app, navigate to the search-bar.
 > 3. Click on the search-bar and then the code you was provided to initiate the download process.
