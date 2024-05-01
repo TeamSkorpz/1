@@ -10,20 +10,20 @@ date:   2024-04-14 12:00:00
 <div style="text-align: center"><img src="img/blog-post/amazon/post-img.png" width="250" height="250" /></div>
 
 **Sideloading on the Amazon Fire Device – A Beginner’s Guide.**
-
+---
 ### **Introduction:**
 Welcome to our blog, where we'll guide you through the exciting world of sideloading the tivimate Pro Apk on to your Amazon Fire device. By the end of this comprehensive guide, you'll have Installed the TiviMate Pro Apk.
-
+---
 ### **Understanding Sideloading.**
 Sideloading involves installing apps from sources other than the Official Amazon App Store. This process grants you access to a broader range of apps, customization options, and the full potential of your Amazon Fire device.
-
+---
 ##### Preparing Your Amazon Fire Device.
 Before diving into sideloading, ensure you've backed up your device and checked for compatibility. Follow these steps to set the stage for a successful jailbreaking experience.
-
+---
 ##### Section 1: Backup Your Device:
 >   1. Navigate to Settings > Device Options > Backup & Restore.
 >   2. Select **"Back Up Now"** to safeguard your data.
-
+---
 ##### Section 2: Enabling Developer Options.
 To unlock advanced settings, enable Developer Options on your device.
 
