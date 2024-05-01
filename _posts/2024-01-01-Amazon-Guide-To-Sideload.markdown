@@ -49,8 +49,8 @@ Explore trusted sources for downloading APK files using the Downloader tool. Rem
 <div style="text-align: center"><img src="img/blog-post/amazon/install-setup.gif" width="300" height="225" /></div>
 ---
 
-#### Now, let's get hands-on with the sideloading process using the Downloader tool.
 ##### Section 2: Sideloading Apps with Downloader.
+Now, let's get hands-on with the sideloading process using the Downloader tool.
 > 1. Open the Downloader app.
 > 2. In the app, navigate to the search-bar.
 > 3. Click on the search-bar and then the code you was provided to initiate the download process.
